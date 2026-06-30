@@ -1,29 +1,30 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "Drug Target and Biomarker Discovery Laboratory"
+  title: "DTBD Lab"
   navbar:
+    background: "#ffffff"
+    foreground: "#111827"
     left:
       - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
-      - href: publications.qmd
-        text: Publications
       - href: people.qmd
         text: People
-      - href: news.qmd
-        text: News
-      - href: contact.qmd
-        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: join.qmd
+        text: Join Us
 
   page-footer:
-    center: "© Drug Target and Biomarker Discovery Laboratory. All rights reserved."
+    left: "© Drug Target and Biomarker Discovery Laboratory"
+    right: "Built with Quarto"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    page-layout: full
