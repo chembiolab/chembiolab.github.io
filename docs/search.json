@@ -51,72 +51,65 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "",
-    "text": "Chemical Biology · Drug Target Discovery · Biomarker Identification\n\n\nDrug Target and Biomarker Discovery Laboratory\n\n\nWe develop small-molecule chemical tools to investigate biological systems, identify disease-relevant biomarkers, and discover new classes of drug targets."
+    "text": "Chemical biology provides a unique approach to study biological systems by using synthetic small molecules. Unlike common biological methods involving genetic engineering and immunochemistry, small-molecule chemical tools can be delivered easily and modified readily with high specificity, providing versatile and adaptable methods for biological investigation.\n\nOur research goal is to develop and apply small-molecule tools to identify and characterize proteases and metal ions involved in mitochondrial physiology, and to expand these tools toward biomarker discovery and drug target identification for Alzheimer’s disease and cancers."
   },
   {
     "objectID": "index.html#about-our-laboratory",
     "href": "index.html#about-our-laboratory",
-    "title": "Home",
-    "section": "About Our Laboratory",
-    "text": "About Our Laboratory\nChemical biology provides a unique approach to study biological systems by using synthetic small molecules. Unlike common biological methods involving genetic engineering and immunochemistry, small-molecule chemical tools can be delivered easily and modified readily with high specificity, providing versatile and adaptable methods for biological investigation.\n\nOur research goal is to develop and apply small-molecule tools to identify and characterize proteases and metal ions involved in mitochondrial physiology, and to expand these tools toward biomarker discovery and drug target identification for Alzheimer’s disease and cancers."
+    "title": "Drug Target and Biomarker Discovery Laboratory",
+    "section": "",
+    "text": "Chemical biology provides a unique approach to study biological systems by using synthetic small molecules. Unlike common biological methods involving genetic engineering and immunochemistry, small-molecule chemical tools can be delivered easily and modified readily with high specificity, providing versatile and adaptable methods for biological investigation.\n\nOur research goal is to develop and apply small-molecule tools to identify and characterize proteases and metal ions involved in mitochondrial physiology, and to expand these tools toward biomarker discovery and drug target identification for Alzheimer’s disease and cancers."
+  },
+  {
+    "objectID": "index.html#lab-updates",
+    "href": "index.html#lab-updates",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
+    "section": "Lab Updates",
+    "text": "Lab Updates\n\n2026.06.30\nWebsite redesign in progress.\nThe Drug Target and Biomarker Discovery Laboratory website is being redesigned using Quarto and GitHub Pages."
   },
   {
     "objectID": "index.html#research-areas",
     "href": "index.html#research-areas",
-    "title": "Home",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "Research Areas",
-    "text": "Research Areas\n\n\nActivity-Based Probes\nWe develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases.\n\n\nMolecular Biomarker Discovery and Fluorescent Probe Development\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.\n\n\nPeptidomimetic Transporters\nWe develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos."
-  },
-  {
-    "objectID": "index.html#updates",
-    "href": "index.html#updates",
-    "title": "Home",
-    "section": "Updates",
-    "text": "Updates\n\n2026.06.30\nWebsite redesign in progress.\nThe Drug Target and Biomarker Discovery Laboratory website is being redesigned using Quarto and GitHub Pages."
+    "text": "Research Areas\n\n\n\n\n\n\n\n\n\nActivity-Based Probes\nMolecular Biomarker Discovery and Fluorescent Probe Development\nPeptidomimetic Transporters\n\n\nWe develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases.\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.\nWe develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos."
   },
   {
     "objectID": "join.html",
     "href": "join.html",
-    "title": "Join Us",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "",
     "text": "We welcome motivated students and researchers interested in chemical biology, medicinal chemistry, molecular probes, drug target discovery, biomarker identification, and disease-relevant small-molecule tools."
   },
   {
     "objectID": "join.html#research-interests",
     "href": "join.html#research-interests",
-    "title": "Join Us",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "Research Interests",
     "text": "Research Interests\nProspective students and collaborators are encouraged to contact us if they are interested in one or more of the following areas:\n\nDrug target discovery and target validation\nBiomarker discovery and fluorescence-based detection\nChemical biology and molecular probe development\nProtease biology and activity-based probes\nPeptidomimetic transporters and intracellular delivery\nAI-assisted peptide and protein binder design"
   },
   {
     "objectID": "join.html#contact",
     "href": "join.html#contact",
-    "title": "Join Us",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "Contact",
-    "text": "Contact\n운정그린캠퍼스 A동 246a 공동연구실 Email: jlee at sungshin.ac.kr"
+    "text": "Contact\n운정그린캠퍼스 A동 246a 공동연구실\nEmail: jlee at sungshin.ac.kr"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "",
-    "text": "Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.\nHere are a few examples of chemical tools that our lab has primarily focused on studying.\n\n\n\nActivity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.\nOur lab aims to develop smart activity-based probes for asparagine endopeptidase and high-temperature requirement A serine proteases to study the pathogenesis of neurodegenerative diseases.\n\n\n\nRecent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems.\nPeptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.\n\n\n\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery."
+    "text": "Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.\nHere are a few examples of chemical tools that our lab has primarily focused on studying.\n\n\n\nActivity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.\nOur lab aims to develop activity-based probes for various proteases to study the pathogenesis of neurodegenerative diseases.\n\n\n\n\n\n\n\n\nRecent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems. Peptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.\n\n\n\n\n\n\n\n\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery."
   },
   {
     "objectID": "research.html#drug-target-discovery-and-biomarker-identification-using-chemical-tools",
     "href": "research.html#drug-target-discovery-and-biomarker-identification-using-chemical-tools",
-    "title": "Research",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "",
-    "text": "Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.\nHere are a few examples of chemical tools that our lab has primarily focused on studying.\n\n\n\nActivity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.\nOur lab aims to develop smart activity-based probes for asparagine endopeptidase and high-temperature requirement A serine proteases to study the pathogenesis of neurodegenerative diseases.\n\n\n\nRecent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems.\nPeptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.\n\n\n\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery."
-  },
-  {
-    "objectID": "research.html#summary-and-overview",
-    "href": "research.html#summary-and-overview",
-    "title": "Research",
-    "section": "Summary and Overview",
-    "text": "Summary and Overview\nOur research integrates chemical probe development, molecular imaging, target identification, and medicinal chemistry to discover disease-relevant targets and biomarkers."
+    "text": "Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.\nHere are a few examples of chemical tools that our lab has primarily focused on studying.\n\n\n\nActivity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.\nOur lab aims to develop activity-based probes for various proteases to study the pathogenesis of neurodegenerative diseases.\n\n\n\n\n\n\n\n\nRecent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems. Peptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.\n\n\n\n\n\n\n\n\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery."
   },
   {
     "objectID": "contact.html",

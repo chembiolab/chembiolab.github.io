@@ -1,41 +1,35 @@
----
-title: "Research"
----
-
 ## Drug Target Discovery and Biomarker Identification Using Chemical Tools
 
 Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.
 
 Here are a few examples of chemical tools that our lab has primarily focused on studying.
 
-::: {.card-grid}
-
-::: {.research-card}
+:::::: card-grid
+::: research-card
 ### 1. Activity-Based Probes to Monitor Enzyme Activity
 
 Activity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.
 
-Our lab aims to develop smart activity-based probes for asparagine endopeptidase and high-temperature requirement A serine proteases to study the pathogenesis of neurodegenerative diseases.
+Our lab aims to develop activity-based probes for various proteases to study the pathogenesis of neurodegenerative diseases.
+
+![](images/Screenshot 2026-06-30 at 5.06.31 PM.png){fig-align="center" width="480"}
 :::
 
-::: {.research-card}
+::: research-card
 ### 2. Organelle-Targeting Peptidomimetics as Molecular Transporters
 
-Recent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems.
+Recent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems. Peptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.
 
-Peptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.
+![](images/Screenshot 2026-06-30 at 5.08.43 PM.png){fig-align="center" width="372"}
 :::
 
-::: {.research-card}
-### 3. ### Molecular Biomarker Discovery and Fluorescent Probe Development
+::: research-card
+### 3. Molecular Biomarker Discovery and Fluorescent Probe Development
 
 We design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.
 
-
+![](images/paste-2.png){fig-align="center" width="386"}
 :::
 
-:::
-
-## Summary and Overview
-
-Our research integrates chemical probe development, molecular imaging, target identification, and medicinal chemistry to discover disease-relevant targets and biomarkers.
+## 
+::::::

@@ -1,52 +1,23 @@
----
-title: "Home"
----
-
-::: {.hero}
-::: {.hero-kicker}
-Chemical Biology · Drug Target Discovery · Biomarker Identification
-:::
-
-::: {.hero-title}
-Drug Target and Biomarker Discovery Laboratory
-:::
-
-::: {.hero-subtitle}
-We develop small-molecule chemical tools to investigate biological systems, identify disease-relevant biomarkers, and discover new classes of drug targets.
-:::
-:::
-
 ## About Our Laboratory
 
 Chemical biology provides a unique approach to study biological systems by using synthetic small molecules. Unlike common biological methods involving genetic engineering and immunochemistry, small-molecule chemical tools can be delivered easily and modified readily with high specificity, providing versatile and adaptable methods for biological investigation.
 
-::: {.highlight-band}
+::: highlight-band
 Our research goal is to develop and apply small-molecule tools to identify and characterize proteases and metal ions involved in mitochondrial physiology, and to expand these tools toward biomarker discovery and drug target identification for Alzheimer’s disease and cancers.
 :::
 
-## Research Areas
-
-::: {.card-grid}
-
-::: {.research-card}
-### Activity-Based Probes
-
-We develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases.
-:::
-
-::: {.research-card}
-### Molecular Biomarker Discovery and Fluorescent Probe Development
-
-We design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.
-:::
-
-::: {.research-card}
-### Peptidomimetic Transporters
-
-We develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos.
-:::
-:::
-
-## Updates
+## Lab Updates
 
 {{< include _updates.qmd >}}
+
+## Research Areas
+
+::: card-grid
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                                  |                                                                                                                                    |                                                                                                                                   |
++:================================================================================================================================================================================:+:==================================================================================================================================:+:=================================================================================================================================:+
+| ### Activity-Based Probes                                                                                                                                                        | ### Molecular Biomarker Discovery and Fluorescent Probe Development                                                                | ### Peptidomimetic Transporters                                                                                                   |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| We develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases. | We design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery. | We develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos. |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+:::

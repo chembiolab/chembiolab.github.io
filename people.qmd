@@ -1,33 +1,27 @@
----
-title: "People"
----
-
 # People
 
 ## Principal Investigator
 
-::: {.profile-box}
-![](assets/images/people/jiyoun-lee.jpg)
-
-:::{}
+:::: profile-box
+::: {}
 ### Jiyoun Lee
 
-Professor  
-School of Biopharmaceutical and Medical Sciences  
+Professor\
+School of Biopharmaceutical and Medical Sciences\
 Sungshin University
 
-[Google Scholar](https://scholar.google.co.kr/citations?user=UC9dtGIAAAAJ&hl=en)  
-[ORCID](http://orcid.org/0000-0003-3819-5889)  
-Email: jlee at sungshin.ac.kr  
+[Google Scholar](https://scholar.google.co.kr/citations?user=UC9dtGIAAAAJ&hl=en)\
+[ORCID](http://orcid.org/0000-0003-3819-5889)\
+Email: jlee at sungshin.ac.kr\
 Phone: +82-2-920-7281
 :::
-:::
+::::
 
 ## Education
 
-- 2006: Ph.D. in Bioinorganic Chemistry, Northwestern University  
+- 2006: Ph.D. in Bioinorganic Chemistry, Northwestern University\
   Advisor: Prof. Thomas J. Meade
-- 2000: M.S. in Medicinal Chemistry, Seoul National University  
+- 2000: M.S. in Medicinal Chemistry, Seoul National University\
   Advisor: Prof. Jeewoo Lee
 - 1998: B.S. in Pharmacy, Seoul National University
 
@@ -38,41 +32,39 @@ Phone: +82-2-920-7281
 - 2018–2022: Associate Professor, Department of Global Medical Science, Sungshin University
 - 2012–2017: Assistant Professor, Department of Global Medical Science, Sungshin University
 - 2010–2012: Senior Research Scientist, Korea Institute of Science and Technology
-- 2008–2010: Postdoctoral Research Associate, Stanford University School of Medicine  
+- 2008–2010: Postdoctoral Research Associate, Stanford University School of Medicine\
   Advisor: Prof. Matthew Bogyo
-- 2006–2007: Postdoctoral Research Associate, University of California, Berkeley  
+- 2006–2007: Postdoctoral Research Associate, University of California, Berkeley\
   Advisor: Prof. Christopher J. Chang
 
 ## Current Members
 
-::: {.member-grid}
-
-::: {.member-card}
-**김은지**  
+:::::::: member-grid
+::: member-card
+**김은지**\
 Ph.D. student
 :::
 
-::: {.member-card}
-**류주희**  
+::: member-card
+**류주희**\
 M.S. student
 :::
 
-::: {.member-card}
-**김혜민**  
+::: member-card
+**김혜민**\
 M.S. student
 :::
 
-::: {.member-card}
-**박주희**  
+::: member-card
+**박주희**\
 Combined B.S./M.S. student
 :::
 
-::: {.member-card}
-**신보영**  
+::: member-card
+**신보영**\
 Undergraduate researcher
 :::
-
-:::
+::::::::
 
 ## Alumni
 
