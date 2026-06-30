@@ -67,7 +67,7 @@
     "href": "index.html#research-areas",
     "title": "Home",
     "section": "Research Areas",
-    "text": "Research Areas\n\n\nActivity-Based Probes\nWe develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases.\n\n\nMolecular Biomarkers\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.\n\n\nPeptidomimetic Transporters\nWe develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos."
+    "text": "Research Areas\n\n\nActivity-Based Probes\nWe develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases.\n\n\nMolecular Biomarker Discovery and Fluorescent Probe Development\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.\n\n\nPeptidomimetic Transporters\nWe develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos."
   },
   {
     "objectID": "index.html#updates",
@@ -81,49 +81,42 @@
     "href": "join.html",
     "title": "Join Us",
     "section": "",
-    "text": "We welcome motivated students and researchers interested in chemical biology, medicinal chemistry, molecular probes, drug target discovery, biomarker identification, and disease-relevant small-molecule tools.\n\n\nProspective students and collaborators are encouraged to contact us if they are interested in one or more of the following areas:\n\nDrug target discovery and target validation\nBiomarker discovery and fluorescence-based detection\nChemical biology and molecular probe development\nProtease biology and activity-based probes\nPeptidomimetic transporters and intracellular delivery\nMitochondrial physiology and disease biology\nAI-assisted peptide and protein binder design\n\n\n\n\nWe value curiosity, careful experimentation, clear communication, and willingness to learn across disciplinary boundaries. Prior experience in organic synthesis, biochemistry, cell biology, fluorescence imaging, or computational analysis is helpful but not required.\n\n\n\nDrug Target and Biomarker Discovery Laboratory\nSchool of Biopharmaceutical and Medical Sciences\nSungshin University\nSeoul, Republic of Korea\nEmail: jlee at sungshin.ac.kr"
+    "text": "We welcome motivated students and researchers interested in chemical biology, medicinal chemistry, molecular probes, drug target discovery, biomarker identification, and disease-relevant small-molecule tools."
   },
   {
     "objectID": "join.html#research-interests",
     "href": "join.html#research-interests",
     "title": "Join Us",
-    "section": "",
-    "text": "Prospective students and collaborators are encouraged to contact us if they are interested in one or more of the following areas:\n\nDrug target discovery and target validation\nBiomarker discovery and fluorescence-based detection\nChemical biology and molecular probe development\nProtease biology and activity-based probes\nPeptidomimetic transporters and intracellular delivery\nMitochondrial physiology and disease biology\nAI-assisted peptide and protein binder design"
-  },
-  {
-    "objectID": "join.html#what-we-value",
-    "href": "join.html#what-we-value",
-    "title": "Join Us",
-    "section": "",
-    "text": "We value curiosity, careful experimentation, clear communication, and willingness to learn across disciplinary boundaries. Prior experience in organic synthesis, biochemistry, cell biology, fluorescence imaging, or computational analysis is helpful but not required."
+    "section": "Research Interests",
+    "text": "Research Interests\nProspective students and collaborators are encouraged to contact us if they are interested in one or more of the following areas:\n\nDrug target discovery and target validation\nBiomarker discovery and fluorescence-based detection\nChemical biology and molecular probe development\nProtease biology and activity-based probes\nPeptidomimetic transporters and intracellular delivery\nAI-assisted peptide and protein binder design"
   },
   {
     "objectID": "join.html#contact",
     "href": "join.html#contact",
     "title": "Join Us",
-    "section": "",
-    "text": "Drug Target and Biomarker Discovery Laboratory\nSchool of Biopharmaceutical and Medical Sciences\nSungshin University\nSeoul, Republic of Korea\nEmail: jlee at sungshin.ac.kr"
+    "section": "Contact",
+    "text": "Contact\n운정그린캠퍼스 A동 246a 공동연구실 Email: jlee at sungshin.ac.kr"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.\nHere are a few examples of chemical tools that our lab has primarily focused on studying.\n\n\n\nActivity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.\nOur lab aims to develop smart activity-based probes for asparagine endopeptidase and high-temperature requirement A serine proteases to study the pathogenesis of neurodegenerative diseases.\n\n\n\nRecent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems.\nPeptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.\n\n\n\nMitochondria produce ATP, maintain calcium homeostasis, regulate signal transduction, and mediate cell death. Mitochondrial dysfunction is linked to cancers, diabetes, cardiovascular diseases, and neurodegenerative disorders.\nOur lab is interested in developing functional modulators that recover mitochondrial activity in damaged or aging cells.\n\n\n\n\n\nOur research integrates chemical probe development, molecular imaging, target identification, and medicinal chemistry to discover disease-relevant targets and biomarkers."
+    "text": "Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.\nHere are a few examples of chemical tools that our lab has primarily focused on studying.\n\n\n\nActivity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.\nOur lab aims to develop smart activity-based probes for asparagine endopeptidase and high-temperature requirement A serine proteases to study the pathogenesis of neurodegenerative diseases.\n\n\n\nRecent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems.\nPeptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.\n\n\n\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery."
   },
   {
     "objectID": "research.html#drug-target-discovery-and-biomarker-identification-using-chemical-tools",
     "href": "research.html#drug-target-discovery-and-biomarker-identification-using-chemical-tools",
     "title": "Research",
     "section": "",
-    "text": "Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.\nHere are a few examples of chemical tools that our lab has primarily focused on studying.\n\n\n\nActivity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.\nOur lab aims to develop smart activity-based probes for asparagine endopeptidase and high-temperature requirement A serine proteases to study the pathogenesis of neurodegenerative diseases.\n\n\n\nRecent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems.\nPeptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.\n\n\n\nMitochondria produce ATP, maintain calcium homeostasis, regulate signal transduction, and mediate cell death. Mitochondrial dysfunction is linked to cancers, diabetes, cardiovascular diseases, and neurodegenerative disorders.\nOur lab is interested in developing functional modulators that recover mitochondrial activity in damaged or aging cells."
+    "text": "Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.\nHere are a few examples of chemical tools that our lab has primarily focused on studying.\n\n\n\nActivity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.\nOur lab aims to develop smart activity-based probes for asparagine endopeptidase and high-temperature requirement A serine proteases to study the pathogenesis of neurodegenerative diseases.\n\n\n\nRecent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems.\nPeptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.\n\n\n\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery."
   },
   {
     "objectID": "research.html#summary-and-overview",
     "href": "research.html#summary-and-overview",
     "title": "Research",
-    "section": "",
-    "text": "Our research integrates chemical probe development, molecular imaging, target identification, and medicinal chemistry to discover disease-relevant targets and biomarkers."
+    "section": "Summary and Overview",
+    "text": "Summary and Overview\nOur research integrates chemical probe development, molecular imaging, target identification, and medicinal chemistry to discover disease-relevant targets and biomarkers."
   },
   {
     "objectID": "contact.html",

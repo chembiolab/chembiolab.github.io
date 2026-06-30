@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-# Research
-
 ## Drug Target Discovery and Biomarker Identification Using Chemical Tools
 
 Chemical probes are key players in searching for the potential druggability of new molecular targets, pathways, or biological processes. Particularly, pathfinder molecules in drug discovery projects aid the design and evaluation of biological assays and the identification of useful biomarkers.
@@ -29,11 +27,11 @@ Peptoids have unique advantages over other polymeric delivery scaffolds because 
 :::
 
 ::: {.research-card}
-### 3. Mitochondrial Functional Modulators for Anti-Aging Therapy
+### 3. ### Molecular Biomarker Discovery and Fluorescent Probe Development
 
-Mitochondria produce ATP, maintain calcium homeostasis, regulate signal transduction, and mediate cell death. Mitochondrial dysfunction is linked to cancers, diabetes, cardiovascular diseases, and neurodegenerative disorders.
+We design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.
 
-Our lab is interested in developing functional modulators that recover mitochondrial activity in damaged or aging cells.
+
 :::
 
 :::

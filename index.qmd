@@ -35,7 +35,7 @@ We develop activity-based probes to monitor enzyme function in cells, animals, a
 :::
 
 ::: {.research-card}
-### Molecular Biomarkers
+### Molecular Biomarker Discovery and Fluorescent Probe Development
 
 We design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.
 :::
