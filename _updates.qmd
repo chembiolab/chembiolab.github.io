@@ -1,0 +1,5 @@
+::: {.update-item}
+<span class="update-date">2026.06.30</span>  
+**Website redesign in progress.**  
+The Drug Target and Biomarker Discovery Laboratory website is being redesigned using Quarto and GitHub Pages.
+:::

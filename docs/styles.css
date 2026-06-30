@@ -1,16 +1,24 @@
-body {
-  font-size: 17px;
-  line-height: 1.65;
+.update-item {
+  border-left: 4px solid #0f766e;
+  background: #ffffff;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  border-radius: 0 12px 12px 0;
+  box-shadow: 0 4px 18px rgba(15, 23, 42, 0.045);
 }
 
-h1, h2, h3 {
-  font-weight: 600;
+.update-date {
+  display: inline-block;
+  font-weight: 750;
+  color: #0f766e;
+  margin-bottom: 0.35rem;
 }
 
-.navbar-title {
-  font-weight: 600;
+.update-item p {
+  margin-bottom: 0.2rem;
 }
 
-img {
-  border-radius: 6px;
+.update-item img {
+  margin-top: 0.8rem;
+  max-width: 100%;
 }
