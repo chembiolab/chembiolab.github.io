@@ -4,8 +4,8 @@ Chemical probes are key players in searching for the potential druggability of n
 
 Here are a few examples of chemical tools that our lab has primarily focused on studying.
 
-:::::: card-grid
-::: research-card
+::: research-list
+::: research-item
 ### 1. Activity-Based Probes to Monitor Enzyme Activity
 
 Activity-based probes react with specific classes of enzymes in a manner that correlates with enzyme activity, enabling the monitoring of enzyme function and activity in cells, animals, and disease models.
@@ -15,7 +15,7 @@ Our lab aims to develop activity-based probes for various proteases to study the
 ![](images/research1.png){fig-align="center" width="480"}
 :::
 
-::: research-card
+::: research-item
 ### 2. Organelle-Targeting Peptidomimetics as Molecular Transporters
 
 Recent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems. Peptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.
@@ -23,13 +23,11 @@ Recent advances in gene therapy and antibody drug development have brought renew
 ![](images/research2.png){fig-align="center" width="372"}
 :::
 
-::: research-card
+::: research-item
 ### 3. Molecular Biomarker Discovery and Fluorescent Probe Development
 
 We design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.
 
 ![](images/paste-2.png){fig-align="center" width="386"}
 :::
-
-## 
-::::::
+:::

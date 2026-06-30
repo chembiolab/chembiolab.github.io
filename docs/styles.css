@@ -113,7 +113,7 @@
 }
 
 .research-card h4 {
-  font-size: 1.02rem;
+  font-size: 0.96rem;
   font-weight: 600;
   margin-top: 0;
   margin-bottom: 0.7rem;
@@ -134,6 +134,43 @@
     gap: 1rem;
   }
 }
+.research-list {
+  margin: 1.5rem 0 2.5rem;
+}
+
+.research-item {
+  padding: 1.8rem 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.research-item:first-child {
+  padding-top: 0.5rem;
+}
+
+.research-item:last-child {
+  border-bottom: none;
+}
+
+.research-item h3 {
+  font-size: 1rem;
+  font-weight: 400;
+  border-bottom: none;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+  padding-bottom: 0;
+}
+
+.research-item p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #1f2328;
+}
+
+.research-item img {
+  margin-top: 0.8rem;
+}
+
+.update-item {
   position: relative;
   border-left: none;
   background: transparent;
