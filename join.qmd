@@ -1,0 +1,32 @@
+---
+title: "Join Us"
+---
+
+# Join Us
+
+We welcome motivated students and researchers interested in chemical biology, medicinal chemistry, molecular probes, drug target discovery, biomarker identification, and disease-relevant small-molecule tools.
+
+## Research Interests
+
+Prospective students and collaborators are encouraged to contact us if they are interested in one or more of the following areas:
+
+- Drug target discovery and target validation
+- Biomarker discovery and fluorescence-based detection
+- Chemical biology and molecular probe development
+- Protease biology and activity-based probes
+- Peptidomimetic transporters and intracellular delivery
+- Mitochondrial physiology and disease biology
+- AI-assisted peptide and protein binder design
+
+## What We Value
+
+We value curiosity, careful experimentation, clear communication, and willingness to learn across disciplinary boundaries. Prior experience in organic synthesis, biochemistry, cell biology, fluorescence imaging, or computational analysis is helpful but not required.
+
+## Contact
+
+Drug Target and Biomarker Discovery Laboratory  
+School of Biopharmaceutical and Medical Sciences  
+Sungshin University  
+Seoul, Republic of Korea  
+
+Email: jlee at sungshin.ac.kr
