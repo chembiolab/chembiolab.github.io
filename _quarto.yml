@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "DTBD Lab"
+  title: "Drug Target and Biomarker Discovery Laboratory"
   navbar:
     background: "#ffffff"
     foreground: "#111827"
