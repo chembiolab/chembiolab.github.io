@@ -3,7 +3,10 @@
 ## Principal Investigator
 
 :::: profile-box
-::: {}
+::: profile-photo
+![](images/people/jiyoun-lee.png)
+:::
+::: profile-info
 ### Jiyoun Lee
 
 Professor\
@@ -12,7 +15,7 @@ Sungshin University
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=UC9dtGIAAAAJ&hl=en)\
 [ORCID](http://orcid.org/0000-0003-3819-5889)\
-[CV](https://chembiolab.weebly.com/uploads/5/8/1/0/58104541/jlee_cv_2023.pdf)\
+[CV](assets/JLee_CV.pdf)\
 Email: jlee at sungshin.ac.kr\
 Phone: +82-2-920-7281
 :::
@@ -42,31 +45,42 @@ Phone: +82-2-920-7281
 
 <!--
 새 멤버 추가: 아래 ::: member-card ... ::: 블록을 통째로 복사해서
-member-grid 안 마지막 카드 뒤에 붙여넣고 이름/직함만 바꾸면 됩니다.
+member-grid 안 마지막 카드 뒤에 붙여넣고, 사진 파일명/이름/직함만 바꾸면 됩니다.
+사진은 images/people/ 폴더에 정사각형(또는 그에 가까운) 비율로 넣어주세요.
 -->
 
 :::::::: member-grid
 ::: member-card
+![](images/people/kim-eunji.jpg)
+
 **김은지**\
 Ph.D. student
 :::
 
 ::: member-card
+![](images/people/ryu-juhee.png)
+
 **류주희**\
 M.S. student
 :::
 
 ::: member-card
+![](images/people/kim-hyemin.png)
+
 **김혜민**\
 M.S. student
 :::
 
 ::: member-card
+![](images/people/park-juhee.jpg)
+
 **박주희**\
 Combined B.S./M.S. student
 :::
 
 ::: member-card
+![](images/people/shin-boyoung.jpg)
+
 **신보영**\
 Undergraduate researcher
 :::
@@ -93,6 +107,7 @@ Undergraduate researcher
 - 이름, 직함/소속
 -->
 
+::: honorary-list
 **2024**
 
 - 전혜빈, M.S. student
@@ -136,3 +151,4 @@ Undergraduate researcher
 **2015**
 
 - 정수정, Undergraduate researcher
+:::
