@@ -1,0 +1,9 @@
+---
+title: "Home"
+---
+
+# Lee Chemical Biology Lab
+
+Chemical biology and molecular design for disease-relevant protein regulation.
+
+We develop chemical and biological strategies to interrogate and modulate disease-relevant protein function, with current emphasis on extracellular protein degradation, retinal degeneration, enzyme-responsive fluorescent probes, and AI-assisted peptide/protein design.
