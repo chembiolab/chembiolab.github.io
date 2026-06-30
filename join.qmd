@@ -1,7 +1,7 @@
 ---
 title: "Join Us"
 ---
-![](assets/images/people/labpic.jpg)
+![](assets/images/labpic.jpg)
 We welcome motivated students and researchers interested in chemical biology, medicinal chemistry, molecular probes, drug target discovery, biomarker identification, and disease-relevant small-molecule tools.
 
 ## Research Interests
