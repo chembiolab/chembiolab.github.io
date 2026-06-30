@@ -12,7 +12,7 @@ Activity-based probes react with specific classes of enzymes in a manner that co
 
 Our lab aims to develop activity-based probes for various proteases to study the pathogenesis of neurodegenerative diseases.
 
-![](images/Screenshot 2026-06-30 at 5.06.31 PM.png){fig-align="center" width="480"}
+![](images/research1.png){fig-align="center" width="480"}
 :::
 
 ::: research-card
@@ -20,7 +20,7 @@ Our lab aims to develop activity-based probes for various proteases to study the
 
 Recent advances in gene therapy and antibody drug development have brought renewed attention to molecular transporters as efficient delivery systems. Peptoids have unique advantages over other polymeric delivery scaffolds because they share physiological and chemical properties with peptides and proteins while offering superior metabolic and immunological stability.
 
-![](images/Screenshot 2026-06-30 at 5.08.43 PM.png){fig-align="center" width="372"}
+![](images/research2.png){fig-align="center" width="372"}
 :::
 
 ::: research-card

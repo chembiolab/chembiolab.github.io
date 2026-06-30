@@ -1,0 +1,178 @@
+/*-- scss:defaults --*/
+
+// GitHub README 스타일 팔레트
+$body-bg: #ffffff;
+$body-color: #1f2328;
+$link-color: #0969da;
+
+// 시스템 폰트 스택 (GitHub와 동일 계열)
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans KR", Helvetica, Arial, sans-serif;
+$font-family-monospace: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+$presets-bg: #f6f8fa;
+$border-color: #d1d9e0;
+
+$navbar-bg: #ffffff;
+$navbar-fg: #1f2328;
+
+$h1-font-size: 1.75rem;
+$h2-font-size: 1.375rem;
+$h3-font-size: 1.125rem;
+
+/*-- scss:rules --*/
+
+body {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+// 본문 폭, 메뉴와 콘텐츠 사이 여백 제거
+.content,
+main.content,
+#quarto-content,
+.page-columns .content {
+  max-width: 1200px !important;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0 !important;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-top: 0 !important;
+}
+
+// 모바일: 폭/패딩 축소, 표는 가로 스크롤로 깨짐 방지
+@media (max-width: 768px) {
+  .content,
+  main.content,
+  #quarto-content,
+  .page-columns .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  body {
+    font-size: 15px;
+  }
+
+  h1, h2 {
+    font-size: 1.4rem;
+  }
+
+  h3, h4 {
+    font-size: 1.05rem;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 1rem;
+  }
+}
+
+// 네비게이션바 고정은 _quarto.yml의 navbar.pinned 옵션이 처리
+.navbar {
+  border-bottom: 1px solid $border-color;
+  box-shadow: none;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.92rem;
+  color: #57606a;
+}
+
+.navbar-nav .nav-link:hover {
+  color: $body-color;
+}
+
+// 제목들: README처럼 절제된 크기 + 가는 하단 보더
+h1, h2 {
+  font-weight: 600;
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.3em;
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+}
+
+h3, h4 {
+  font-weight: 600;
+  margin-top: 1.4em;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+// 표: README 스타일 — 옅은 보더, 헤더만 음영
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  margin: 1.2em 0;
+}
+
+table th {
+  background: $presets-bg;
+  border: 1px solid $border-color;
+  padding: 0.5em 0.8em;
+  font-weight: 600;
+  text-align: left;
+}
+
+table td {
+  border: 1px solid $border-color;
+  padding: 0.5em 0.8em;
+  vertical-align: top;
+}
+
+// 코드/인용 블록
+code {
+  background: $presets-bg;
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+  font-size: 0.88em;
+}
+
+blockquote {
+  border-left: 3px solid $border-color;
+  color: #57606a;
+  padding-left: 1em;
+  margin-left: 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $border-color;
+  margin: 2.5em 0;
+}
+
+// 푸터: 가는 보더 + 옅은 텍스트
+.page-footer,
+footer {
+  border-top: 1px solid $border-color;
+  color: #57606a;
+  font-size: 0.85rem;
+  text-align: center;
+  padding-top: 1.2em;
+  margin-top: 3em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}

@@ -1,9 +1,193 @@
----
-title: "Publications"
----
+## Publications
 
-# Publications
+### 2026
 
-## Selected Publications
+Kim EJ, Lee Y, Ryu J, Kim H, Park J, **Lee J.** "Cell-penetrating peptides for therapeutic applications: emerging design strategies and future directions" *Org. Biomol. Chem.* **2026**, *Accepted for publication.*
 
-1. Author list. Title. *Journal* Year, Volume, Pages. [DOI](https://doi.org/xxxxx)
+### 2024
+
+Kim EJ, Jeon HB, Kang MJ,\* **Lee J\*** "Dynamic imaging of lipid droplets in cells and tissues by using dioxaborine barbiturate-based fluorogenic probes" *Anal. Chem.* **2024**, 96, 8356-8364. (\*co-corresponding authors)
+
+The Atomwise AIMS Program (Wallack *et al.*) "AI is a viable alternative to high throughput screening: a 318-target study" *Sci. Rep.* **2024**, *14*, 7526.
+
+### 2023
+
+Park JE\*\*, **Lee J**\*\*, Ok S, Byun S, Yoon SE, Kim YJ, Kang MJ "Wg/Wnt1 and Erasp link ER stress to proapoptotic signaling in an autosomal dominant retinitis pigmentosa model" *Exp. Mol. Med.* **2023**, *55*, 1544-1555 (\*\*co-first authors)
+
+Song D\*\*, Lee JY\*\*, Park EC, Choi NE, Nam HY, Seo J\*, **Lee J\*** "Structure-activity relationship analysis of activity-based probes targeting HTRA family of serine proteases" *Bioorg. Med. Chem. Lett.* **2023**, *87*, 129259 (\*\*co-first authors, \*co-corresponding authors)
+
+### 2022
+
+Choi NE, Kim EJ, **Lee J.** "A fluorescent molecular rotor for the *in situ* imaging of latent fingerprints" *RSC Adv.* **2022**, *12*, 33180-33186
+
+Kim S\*\*, Lee JY\*\*, Choi J, Nam HY, Seo J\*, **Lee J\*** "Structure-activity relationship of mitochondria-targeting peptoids" *Pept. Sci.* **2022**, *114*, e24239. (\*\*co-first authors & \*co-corresponding authors)
+
+### 2021
+
+Manh NV, Hoang V, Ngo VTH, Ann J, Jang T-H, Ha J-H, Song JY, Ha H-J, Kim H, Kim Y-H, **Lee J**, Lee J. "Discovery of highly potent human glutaminyl cyclase (QC) inhibitors as anti-Alzheimer's agents by the combination of pharmacophore-based and structure-based design" *Eur. J. Med. Chem.* **2021**, *226*, 113819.
+
+Kim TH, Morshed MN, Londhe AM, Lim JW, Jung SY, Yang H, Cho S, Cho SJ, Hwang H, Lim SM, Lee JY, **Lee J\***, Pae AN\* "The translocator protein ligands as mitochondrial functional modulators for the potential anti-Alzheimer agents" *J. Enzyme Inhib. Med. Chem.* **2021**, *36*, 831-846 (\*co-corresponding authors)
+
+Choi NE, Lee JY, Park EC, Lee JH, **Lee J.** "Recent advances in organelle-targeted fluorescent probes" *Molecules* **2021**, *26*, 217.
+
+### 2020
+
+Nam HY, Choi J, Kumar SD, Nielsen JE, Kyeong M, Wang S, Kang D, Lee Y, **Lee J**, Yoon MH, Hong S, Lund R, Jenssen H, Shin SY, Seo J. "Helicity modulation improves selectivity of antimicrobial peptoids" *ACS Infect. Dis.* **2020**, *6*, 2732-2744
+
+Nam HY\*\*, Song D\*\*, Eo J\*\*, Choi N-E, Hong J-A, Hong KT, Lee J-S, Seo J\*, **Lee J\*** "Activity-based probes for the high temperature requirement A serine proteases." *ACS Chem. Biol.* **2020**, *15*, 2346-2354 (\*\*co-first authors and \*co-corresponding authors)
+
+Lim JW, **Lee J\***, Pae AN\* "Mitochondrial dysfunction and Alzheimer's disease: prospects for therapeutic intervention." *BMB Rep.* **2020**, *53*, 47-55. (\*co-corresponding authors)
+
+Kim S, Nam HY, **Lee J\***, Seo J\* "Mitochondrion-Targeting Peptides and Peptidomimetics: Recent Progress and Design Principles." *Biochemistry* **2020**, *59*, 270-284. (\*co-corresponding authors)
+
+### 2019
+
+Hoang VH, Ngo VTH, Cui M, Manh NV, Tran PT, Ann J, Ha HJ, Kim H, Choi K, Kim YH, Chang H, Macalino SJY, **Lee J**, Choi S, Lee J. "Discovery of Conformationally Restricted Human Glutaminyl Cyclase Inhibitors as Potent Anti-Alzheimer's Agents by Structure-Based Design." *J. Med. Chem.* **2019**, *62*, 8011-8027.
+
+Yoon S, Kim SE, Kim JH, Yoon I, Tran PT, Ann J, Kim C, Byun WS, Lee S, Kim S, **Lee J\***, Lee J\* "Structure-activity relationship of leucyladenylate sulfamate analogues as leucyl-tRNA synthetase (LRS)-targeting inhibitors of Mammalian target of rapamycin complex 1 (mTORC1)." *Bioorg. Med. Chem.* **2019**, *27*, 1099-1109. (\*co-corresponding authors)
+
+### 2018
+
+Elkamhawy A, Park JE, Hassan AHE, Pae AN, **Lee J**, Paik S, Park BG, Roh EJ. "Pyrazinyl ureas revisited: 1-(3-(Benzyloxy)pyrazin-2-yl)-3-(3,4-dichlorophenyl)urea, a new blocker of Aβ-induced mPTP opening for Alzheimer's disease." *Eur. J. Med. Chem.* **2018**, *157*, 268-278.
+
+Yoon S, Zuo D, Kim JH, Yoon I, Ann J, Kim SE, Cho D, Kim WK, Lee S, **Lee J**, Kim S, Lee J. "Discovery of novel leucyladenylate sulfamate surrogates as leucyl-tRNA synthetase (LRS)-targeted mammalian target of rapamycin complex 1 (mTORC1) inhibitors." *Bioorg. Med. Chem.* **2018**, *26*, 4073-4079.
+
+Ngo VTH, Hoang V, Tran P, Van Manh N, Ann J, Kim E, Cui M, Choi S, **Lee J**, Kim H, Ha H, Choi K, Kim Y, Lee J. "Potent human glutaminyl cyclase inhibitors as potential anti-Alzheimer's agents: Structure-activity relationship study of Arg-mimetic region" *Bioorg. Med. Chem.* **2018**, *26*, 3133-3144
+
+Nam HY\*, Hong JA\*, Choi J, Shin S, Cho SK, Seo J, **Lee J.** "Mitochondria-targeting peptoids" *Bioconj. Chem.* **2018**, *29*, 1669-1676. (\*Co-first authors)
+
+Hong JA, Kim MJ, Eoh J, **Lee J.** "A turn-on fluorescent probe for live cell imaging of biothiols" *Bull. Kor. Chem. Soc.* **2018**, *39*, 425-426.
+
+Ngo VTH, Hoang V, Tran P, Ann J, Cui M, Park G, Choi S, **Lee J**, Kim H, Ha H, Choi K, Kim Y, Lee J. "Potent human glutaminyl cyclase inhibitors as potential anti-Alzheimer's agents: Structure-activity relationship study of Arg-mimetic region" *Bioorg. Med. Chem.* **2018**, *26*, 1035-1049.
+
+Kim SM, Lee M, Lee SY, Lee SM, Kim EJ, Kim JS, Ann J, **Lee J.**, Lee J. "Synthesis and biological evaluation of 3-(2-aminoethyl) uracil derivatives as gonadotropin-releasing hormone (GnRH) receptor antagonists" *Eur. J. Med. Chem.* **2018**, *145*, 413-424.
+
+Elkamhawy A, Park JE, Hassan AH, Pae AN, **Lee J.**, Park BG, Roh EJ. "Synthesis and evaluation of 2-(3-arylureido)pyridines and 2-(3-arylureido)pyrazines as potential modulators of Aβ-induced mitochondrial dysfunction in Alzheimer's disease." *Eur. J. Med. Chem.* **2018**, *144*, 529-543.
+
+**Lee J.**, Kang D, Choi J, Huang W, Wadmen M, Barron AE, Seo J. "Effect of side chain hydrophobicity and cationic charge on antimicrobial activity and cytotoxicity of helical peptoids" *Bioorg. Med. Chem. Lett.* **2018**, *28*, 170-173.
+
+Ha H, Kang DW, Kim HM, Kang JM, Ann J, Hyun HJ, Lee JH, Kim SH, Kim H, Choi K, Hong HS, Kim YH, Jo DG, **Lee J.**, Lee J. "Discovery of an Orally Bioavailable Benzofuran Analogue that Serves as a β-amyloid Aggregation Inhibitor for the Potential Treatment of Alzheimer's Disease." *J. Med. Chem.* **2018**, *61*, 396-402.
+
+### 2017
+
+Park JE, Elkamhawy A, Hassan AH, Pae AN, **Lee J.**, Paik S, Park BG, Roh EJ. "Synthesis and evaluation of new pyridyl/pyrazinyl thiourea derivatives: Neuroprotection against amyloid-β-induced toxicity." *Eur. J. Med. Chem.* **2017**, *141*, 322-334.
+
+Kim TH, Son WS, Morshed MN, Londhe AM, Jung SY, Park J, Park WK, Lim SM, Park KD, Cho SJ, Jeong KS, **Lee J\***, Pae AN\* "Discovery of thienopyrrolotriazine derivatives to protect mitochondrial function against Aβ-induced neurotoxicity." *Eur. J. Med. Chem.* **2017**, *141*, 240-256 (\*co-corresponding authors)
+
+Hong JA, Choi NE, La YK, Nam HY, Seo J, **Lee J.** "Development of a smart activity-based probe to detect subcellular activity of asparaginyl endopeptidase in living cells." *Org. Biomol. Chem.* **2017**, *15*, 8018-8022.
+
+Park I, Viswanath ANI, Park BG, Jung SY, Park KD, No KT, **Lee J.**, Pae AN. "Discovery of Non-Peptidic Small Molecule Inhibitors of Cyclophilin D as Neuroprotective Agents in Ab-induced Mitochondrial Dysfunction" *J. Comput. Aided Mol. Des.* **2017**, *31*, 929-941.
+
+Yoon S, Kim JH, Koh Y, Tran PT, Ann J, Yoon I, Jang J, Kim WK, Lee S, **Lee J.**, Kim S, Lee J. "Discovery of simplified leucyladenylate sulfamates as novel leucyl-tRNA synthetase (LRS)-targeted mammalian target of rapamycin complex 1 (mTORC1) inhibitors." *Bioorg. Med. Chem.* **2017**, *25*, 4145-4152
+
+Elkamhawy A, Park JE, Hassan AH, Pae AN, **Lee J.**, Park BG, Paik S, Do J, Park JH, Park KD, Moon B, Park WK, Cho H, Jeong DY, Roh EJ. "Design, synthesis, biological evaluation and molecular modelling of 2-(2-aryloxyphenyl)-1,4-dihydroisoquinolin-3(2H)-ones: A novel class of TSPO ligands modulating amyloid-β-induced mPTP opening." *Eur. J. Pharm. Sci.* **2017**, *104*, 366-381
+
+Hoang V, Tran P, Cui M, Ngo VTH, Park J, Choi S, **Lee J.**, Choi K, Cho H, Kim H, Ha H, Hong H, Kim Y, Lee J. "Discovery of Potent Human Glutaminyl Cyclase Inhibitors as Anti-Alzheimer's Agent Based on Rational Design" *J. Med. Chem.* **2017**, *60*, 2573-2590
+
+Elkamhawy A, Park JE, Hassan AH, Ra H, Pae AN, **Lee J.**, Park BG, Moon B, Park HM, Roh EJ. "Discovery of 1-(3-(benzyloxy)pyridin-2-yl)-3-(2-(piperazin-1-yl)ethyl)urea: A new modulator for amyloid beta-induced mitochondrial dysfunction." *Eur. J. Med. Chem.* **2017**, *128*, 56-69
+
+Kim TH, Yang HY, Park BG, Jung SY, Park JH, Park KD, Min SJ, Tae J, Yang H, Cho S, Song H, Mook-Jung I, **Lee J\***, Pae AN\* "Discovery of Benzimidazole Derivatives as Modulators of Mitochondrial Function: A Potential Treatment for Alzheimer's Disease" *Eur. J. Med. Chem.* **2017**, *125*, 1172-1192 (\*co-corresponding authors)
+
+### 2016
+
+Yoon S, Kim JH, Kim S, Jang J, Kim S, Moon H, Kim W, Lee S, **Lee J.**, Kim S, Lee J. "Discovery of leucyladenylate sulfamates as novel leucyl-tRNA (LRS)-targeted mTORC1 inhibitors" *J. Med. Chem.* **2016**, *59*, 10322-10328.
+
+Kim SM, Lee M, Lee SY, Park E, Lee SM, Kim EJ, Han MY, Yoo T, Ann J, Yoon S, **Lee J**, Lee J. "Discovery of an Orally Bioavailable Gonadotropin-Releasing Hormone Receptor Antagonist." *J. Med. Chem.* **2016**, *59*, 9150-9172
+
+Cho NC, Seo SH, Kim D, Shin JS, Ju J, Seong J, Seo SH, **Lee J.**, Lee KT, Kim YK, No KT, Pae AN. "Pharmacophore-based virtual screening, biological evaluation and binding mode analysis of a novel protease-activated receptor 2 antagonist" *J. Comput. Aided Mol. Des.* **2016**, *8*, 625-637.
+
+La YK, Hong JA, Jeong YJ, **Lee J.** "A 1,8-naphthalimide-based chemosensor for dual-mode sensing: Colorimetric and fluorometric detection of multiple analytes" *RSC Adv.* **2016**, *6*, 84980-84105
+
+Yoon S, Kim JH, Yoon I, Kim C, Kim SE, Koh Y, Jeong SJ, **Lee J.**, Kim S, Lee J. "Discovery of (S)-4-isobutyloxazolidin-2-one as a novel leucyl-tRNA synthetase (LRS)-targeted mTORC1 inhibitor." *Bioorg. Med. Chem. Lett.* **2016**, *26*, 3038-3041
+
+**Lee J.** "Mitochondrial drug targets in neurodegenerative diseases", *Bioorg. Med. Chem. Lett.* **2016**, *26*, 714-720
+
+Lee HR, Farhanullah, Lee J, Jajoo R, Kong SY, Shin JY, Kim JO, **Lee J.**, Lee J, Kim HJ. "Discovery of a Small Molecule that Enhances Astrocytogenesis by Activation of STAT3, SMAD1/5/8, and ERK1/2 via Induction of Cytokines in Neural Stem Cells." *ACS Chem. Neurosci.* **2016**, *7*, 90-99
+
+### 2015
+
+Cho NC, Cha JH, Kim H, Kwak J, Kim D, Seo SH, Shin JS, Kim T, Park KD, **Lee J.**, No KT, Kim YK, Lee KT, Pae AN. "Discovery of 2-aryloxy-4-amino-quinazoline derivatives as novel protease-activated receptor 2 (PAR2) antagonists." *Bioorg. Med. Chem.* **2015**, *23*, 7717-7727
+
+Choi K, Lim KS, Shin J, Kim SH, Suh YG, Hong HS, Kim H, Ha HJ, Kim YH, **Lee J.**, Lee J. "6-Phenoxy-2-phenylbenzoxazoles, novel inhibitors of receptor for advanced glycation end products (RAGE)" *Bioorg. Med. Chem.* **2015**, *23*, 4919-4935
+
+La YK, Choi NE, Chung S, **Lee J.** "Thiophene-substituted Aza-BODIPYs as Near-Infrared Fluorophores" *Bull. Kor. Chem. Soc.* **2015**, *36*, 1747-1748
+
+**Lee J.**, Huang W, Broering JM, Barron AE, Seo J. "Prostate tumor specific peptide-peptoid hybrid prodrugs" *Bioorg. Med. Chem. Lett.* **2015**, *25*, 2849-2952
+
+Nam M, Kim T, Kwak J, Seo SH, Ko MK, Lim EJ, Min SJ, Cho YS, Keum G, Baek DJ, **Lee J\***, Pae AN\* "Discovery and biological evaluation of tetrahydrothieno[2,3-c]pyridine derivatives as selective metabotropic glutamate receptor 1 antagonists for the potential treatment of neuropathic pain" *Eur. J. Med. Chem.* **2015**, *97*, 245-258 (\*co-corresponding author)
+
+Cho GH, Kim T, Son WS, Seo SH, Min SJ, Cho YS, Keum G, Jeong KS, Koh HY, **Lee J\***, Pae AN\* "Synthesis and biological evaluation of aryl isoxazole derivatives as metabotropic glutamate receptor 1 antagonists: a potential treatment for neuropathic pain" *Bioorg. Med. Chem. Lett.* **2015**, *25*, 1324-1328 (\*co-corresponding author)
+
+### 2014
+
+Elkamhawy A, **Lee J.**, Park BG, Park I, Pae AN, Roh EJ. "Novel quinazoline-urea analogues as modulators for Aβ-induced mitochondrial dysfunction: design, synthesis, and molecular docking study" *Eur. J. Med. Chem.* **2014**, *84*, 466-475
+
+### 2013
+
+Choi MJ, Thorat DA, Jang JW, Yang H, No ES, Kim SJ, **Lee J.**, Choo H, Lee CS, Ko SY, Lee J, Nam GS, Pae AN. "Synthesis and biological evaluation of aryloxazole derivatives as vascular disrupting agents for cancer therapy" *J. Med. Chem.* **2013**, *56*, 9008-9018
+
+Yoon HJ, Kong SY, Park MH, Cho Y, Kim SE, Shin JY, Jung S, **Lee J.**, Farhanullah, Kim HJ, Lee J. "Structure-activity relationship of human glutaminyl cyclase inhibitors having an N-(5-methyl-1H-imidazol-1-yl)propyl thiourea template" *Bioorg. Med. Chem.* **2013**, *21*, 7165-7174
+
+Morell M, Nguyen Duc T, Willis AL, Syed S, **Lee J.**, Deu E, Deng Y, Xiao J, Turk BE, Jessen JR, Weiss SJ, Bogyo M. "Coupling Protein Engineering with Probe Design To Inhibit and Image Matrix Metalloproteinases with Controlled Specificity." *J. Am. Chem. Soc.* **2013**, *135*, 9139-9148
+
+Tran PT, Hoang VH, Thorat SA, Kim SE, Ann J, Chang YJ, Nam DW, Song H, Mook-Jung I, **Lee J.**, Lee J. "Structure-activity relationship of human glutaminyl cyclase inhibitors having an N-(5-methyl-1H-imidazol-1-yl)propyl thiourea template" *Bioorg. Med. Chem.* **2013**, *13*, 3821-3830
+
+Kang B, Chung S, Ahn YD, **Lee J.**, Seo J. "Porphyrin-Peptoid Conjugates: Face-to-Face Display of Porphyrins on Peptoid Helices" *Org. Lett.* **2013**, *15*, 1670-1673
+
+Yang HY, Tae J, Seo YW, Kim YJ, Im HY, Choi GD, Cho H, Park WK, Kwon OS, Cho YS, Ko M, Jang H, Choi K, Kim CH, **Lee J\***, Pae AN\* "Novel Pyrimidoazepine analogs as serotonin 5-HT2A and 5-HT2C receptor ligands for the treatment of obesity" *Eur. J. Med. Chem.* **2013**, *63*, 558-569 (\*co-corresponding author)
+
+Kim YS, Jung SH, Park BG, Ko MK, Jang HS, Choi K, Baik JH, **Lee J.**, Lee JK, Pae AN, Cho YS, Min SJ. "Synthesis and evaluation of oxime derivatives as modulators for amyloid beta-induced mitochondrial dysfunction" *Eur. J. Med. Chem.* **2013**, *62*, 71-83
+
+**Lee J\***, Bogyo M\* "Target Deconvolution Techniques in Modern Phenotypic Profiling" *Curr. Opin. Chem. Biol.* **2013**, *17*, 118-126 (\*co-corresponding author)
+
+Edgington LE, Verdoes M, Ortega A, Withana NP, **Lee J.**, Syed S, Bachmann MH, Blum G, Bogyo M. "Functional Imaging of Legumain in Cancer Using a New Quenched Activity-Based Probe" *J. Am. Chem. Soc.* **2013**, *135*, 174-182
+
+### 2012
+
+Kim J, **Lee J.**, Moon B, Mook-Jung I, Nam G, Keum G, Pae AN, Choo H. "Pyridyl-urea Derivatives as Blockers of Abeta induced mPTP Opening for Alzheimer's Disease" *Bull. Korean Chem. Soc.* **2012**, *33*, 3887-3889
+
+**Lee J.** "Cobalt(III) Complexes as Novel Matrix Metalloproteinase-9 Inhibitors" *Bull. Korean Chem. Soc.* **2012**, *33*, 2762-2764
+
+Cho Y, Kim MS, Kim HS, Ann J, **Lee J.**, Pearce LV, Pavlyukovets VA, Morgan MA, Blumberg PM, Lee J. "The SAR analysis of TRPV1 agonists with the α-methylated B-region" *Bioorg. Med. Chem. Lett.* **2012**, *22*, 5227-5231.
+
+**Lee J\***, Bogyo M\* "Synthesis and evaluation of aza-peptidyl inhibitors of the lysosomal asparaginyl endopeptidase, legumain" *Bioorg. Med. Chem. Lett.* **2012**, *22*, 1340-1343. (\*co-corresponding author)
+
+### 1999–2011
+
+Ewald SE, Engel A, **Lee J.**, Wang M, Bogyo M, Barton GM. "Nucleic acid recognition by Toll-like receptors is coupled to processing by cathepsins and asparagine endopeptidase." *J. Exp. Med.* **2011**, *208*, 643-651.
+
+**Lee J.**, Bogyo M. "Development of near-infrared fluorophore (NIRF)-labeled activity-based probes for in vivo imaging of legumain" *ACS Chem. Biol.* **2010**, *5*, 233-243.
+
+Harney AS, **Lee J.**, Manus LM, Wang P, Ballweg DM, LaBonne C, Meade TJ. "Targeted inhibition of Snail family zinc finger transcription factors by oligonucleotide-Co(III) Schiff base conjugate" *Proc. Nat. Acad. Sci.* **2009**, *106*, 13667-13672.
+
+**Lee J.**, Burdette JE, MacRenaris KW, Mustafi D, Woodruff TK, Meade TJ. "Rational design, synthesis, and biological evaluation of progesterone modified MRI contrast agents" *Chem. Biol.* **2007**, *14*, 824-834.
+
+**Lee J.**, Zylka MJ, Anderson DJ, Burdette JE, Woodruff TK, Meade TJ. "A Steroid-Conjugated Contrast Agent for Magnetic Resonance Imaging of Cell Signaling." *J. Am. Chem. Soc.* **2005**, *127*, 13164-13166.
+
+**Lee J.**, Jin M, Kang S-U, Kim SY, Lee J, Shin M, Hwang J, Cho S, Choi Y-S, Choi H-K, Kim S-E, Suh Y-G, Lee Y-S, Kim Y-H, Ha H-J, Toth A, Pearce LV, Tran R, Szabo T, Welter JD, Lundberg DJ, Wang Y, Lazar J, Pavlyukovets VA, Morgan MA, Blumberg PM. "Analysis of structure-activity relationships for the 'B-region' of N-(4-t-butylbenzyl)-N'-[4-(methylsulfonylamino) benzyl]-thiourea analogues as TRPV1 antagonists." *Bioorg. Med. Chem. Lett.* **2005**, *15*, 4143-4150.
+
+**Lee J.**, Kim SY, Lee J, Kang M, Kil M-J, Choi H-K, Jin M-K, Wang Y, Toth A, Pearce LV, Lundberg DJ, Tran R, Blumberg PM. "Analysis of structure activity relationships with the N-(3-acyloxy-2-benzylpropyl)-N-[4-(methylsulfonylamino)benzyl] thiourea template for vanilloid receptor 1 antagonism." *Bioorg. Med. Chem.* **2004**, *12*, 3411-3420.
+
+**Lee J.**, Kang S-U, Choi H-K, Lee J, Lim J-O, Kil M-J, Jin M-K, Kim K-P, Sung J-H, Chung S-J, Ha H-J, Kim Y-H, Pearce LV, Tran R, Lundberg DJ, Wang Y, Toth A, Blumberg PM. "Analysis of structure activity relationships for the α-region of N-(3-acyloxy-2-benzylpropyl)-N-[4-(methylsulfonylamino)benzyl]thiourea analogues as vanilloid receptor antagonists: discovery of an N-hydroxythiourea analogue with potent analgesic activity." *Bioorg. Med. Chem. Lett.* **2004**, *14*, 2291-2297.
+
+**Lee J.**, Kim SY, Park S, Lim J-O, Kim J-M, Kang M, Lee J, Kang S-U, Choi H-K, Jin M-K, Welter JD, Szabo T, Tran R, Pearce LV, Toth A, Blumberg PM. "Structure-activity relationships of simplified resiniferatoxin analogues with potent VR1 agonism elucidates an active conformation of RTX for VR1 binding." *Bioorg. Med. Chem.* **2004**, *12*, 1055-1069.
+
+Park H-G, Choi J-Y, Choi S-H, Park M-K, **Lee J.**, Suh Y-G, Cho H, Oh U, Lee J, Kang S-U, Lee J, Kim H-D, Park Y-H, Jeong YS, Choi JK, Jew S-S. "N-4-Substituted-benzyl-N-tert-butylbenzyl thioureas as vanilloid receptor ligands: investigation on the role of methanesulfonamido group in antagonistic activity." *Bioorg. Med. Chem. Lett.* **2004**, *14*, 787-791.
+
+Wang Y, Toth A, Tran R, Szabo T, Welter JD, Blumberg PM, **Lee J.**, Kang S-U, Lim J-O, Lee J. "High Affinity of Partial Agonists of Vanilloid Receptor." *Mol. Pharmacol.* **2003**, *64*, 325-334.
+
+**Lee J.**, Lee J, Kang M, Shin M-Y, Kim J-M, Kang S-U, Lim J-O, Choi H-K, Suh Y-G, Park H-G, Oh U, Kim H-D, Park Y-H, Ha H-J, Kim Y-H, Toth A, Wang Y, Tran R, Pearce LV, Lundberg DJ, Blumberg PM. "N-(3-Acyloxy-2-benzylpropyl)-N'-[4-(methylsulfonylamino) benzyl] thiourea Analogues: Novel Potent and High Affinity Antagonist and Partial Antagonists of the Vanilloid Receptor." *J. Med. Chem.* **2003**, *46*, 3116-3126.
+
+Wang Y, Szabo T, Welter JD, Toth A, Tran R, **Lee J.**, Kang S-U, Suh Y-G, Blumberg PM, Lee J. "High Affinity Antagonists of the Vanilloid Receptor." *Mol. Pharmacol.* **2002**, *62*, 947-956.
+
+**Lee J.**, Lee J, Kang MS, Kim KP, Chung SJ, Blumberg PM, Yi JB, Park YH. "Phenolic Modification as an Approach to Improve the Pharmacology of the 3-Acyloxy-2-benzylpropyl Homovanillic Amides and Thioureas, a Promising Class of Vanilloid Receptor Agonist and Analgesics." *Bioorg. Med. Chem.* **2002**, *10*, 1171-1179.
+
+**Lee J.**, Lee J, Szabo T, Gonzalez AF, Welter JD, Blumberg PM. "N-(3-Acyloxy-2-benzylpropyl)-N-Dihydroxy Tetrahydrobenzazepine and Tetrahydroisoquinoline Thiourea Analogues as Vanilloid Receptor Ligands." *Bioorg. Med. Chem.* **2001**, *9*, 1713-1720.
+
+**Lee J.**, Lee J, Kim J, Kim SY, Chun MW, Cho H, Hwang SW, Oh U, Park YH, Marquez VE, Beheshti M, Szabo T, Blumberg PM. "N-(3-Acyloxy-2-benzylpropyl)-N-(4-hydroxy-3-methoxy benzyl)thiourea Derivatives as Potent Vanilloid Receptor Agonists and Analgesics." *Bioorg. Med. Chem.* **2001**, *9*, 19-32.
+
+**Lee J.**, Park SU, Kim JY, Kim JK, Lee J, Oh U, Marquez VE, Beheshti M, Wang QJ, Modarres S, Blumberg PM. "N-Acyloxy-2-phenalkylpropyl Amides and Esters of Homovanillic Acid as Novel Vanilloid receptor Agonists." *Bioorg. Med. Chem. Lett.* **1999**, *9*, 2909-2914.
+
+Chun KS, Sohn Y, Kim HS, Kim OH, Park KK, Lee JM, **Lee J.**, Lee J, Moon A, Lee SS, Surh YJ. "Anti-tumor Promoting Potential of Naturally Occurring Diarylheptanoids Stucturally Related to Curcumin." *Mutat. Res.* **1999**, *428*, 49-57.
+
+**Lee J.**, Lee J. "A Facile and Practical Synthesis of Capsazepine, A Vanilloid Receptor Antagonist." *Synthetic Commun.* **1999**, *29*, 4127-4140.

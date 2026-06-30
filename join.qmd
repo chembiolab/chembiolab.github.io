@@ -1,4 +1,4 @@
-![](assets/images/labpic.jpg){width="450"} ![](images/Screenshot 2026-06-30 at 4.57.33 PM.png){width="265"}
+![](images/labpic.jpg){width="450"} ![](images/labpic2.png){width="265"}
 
 We welcome motivated students and researchers interested in chemical biology, medicinal chemistry, molecular probes, drug target discovery, biomarker identification, and disease-relevant small-molecule tools.
 

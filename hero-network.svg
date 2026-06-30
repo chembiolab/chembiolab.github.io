@@ -1,0 +1,42 @@
+<svg width="600" height="220" viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Abstract molecular network illustration</title>
+<desc>Stylized nodes and connecting lines representing molecular targets and chemical probes</desc>
+
+<defs>
+  <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0f766e" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#0f766e" stop-opacity="0.12"/>
+  </linearGradient>
+</defs>
+
+<g stroke="url(#lineGrad)" stroke-width="1">
+  <line x1="80" y1="60" x2="180" y2="40"/>
+  <line x1="180" y1="40" x2="260" y2="90"/>
+  <line x1="260" y1="90" x2="200" y2="150"/>
+  <line x1="200" y1="150" x2="80" y2="60"/>
+  <line x1="260" y1="90" x2="360" y2="60"/>
+  <line x1="360" y1="60" x2="440" y2="110"/>
+  <line x1="440" y1="110" x2="520" y2="70"/>
+  <line x1="440" y1="110" x2="400" y2="170"/>
+  <line x1="200" y1="150" x2="300" y2="180"/>
+  <line x1="300" y1="180" x2="400" y2="170"/>
+  <line x1="360" y1="60" x2="300" y2="20"/>
+  <line x1="80" y1="60" x2="30" y2="100"/>
+  <line x1="520" y1="70" x2="570" y2="40"/>
+</g>
+
+<g fill="#0f766e">
+  <circle cx="80" cy="60" r="4" opacity="0.85"/>
+  <circle cx="180" cy="40" r="3" opacity="0.55"/>
+  <circle cx="260" cy="90" r="5" opacity="0.95"/>
+  <circle cx="200" cy="150" r="3.5" opacity="0.6"/>
+  <circle cx="360" cy="60" r="4.5" opacity="0.9"/>
+  <circle cx="440" cy="110" r="6" opacity="1"/>
+  <circle cx="520" cy="70" r="3.5" opacity="0.6"/>
+  <circle cx="400" cy="170" r="3.5" opacity="0.55"/>
+  <circle cx="300" cy="180" r="3" opacity="0.45"/>
+  <circle cx="300" cy="20" r="2.5" opacity="0.4"/>
+  <circle cx="30" cy="100" r="2.5" opacity="0.4"/>
+  <circle cx="570" cy="40" r="2.5" opacity="0.4"/>
+</g>
+</svg>

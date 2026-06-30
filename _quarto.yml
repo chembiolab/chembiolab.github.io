@@ -6,7 +6,8 @@ website:
   navbar:
     background: "#ffffff"
     foreground: "#111827"
-    left:
+    pinned: true
+    right:
       - href: index.qmd
         text: Home
       - href: research.qmd
@@ -24,7 +25,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
     css: styles.css
     toc: false
-    page-layout: full
+    page-layout: article
