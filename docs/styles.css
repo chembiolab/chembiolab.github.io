@@ -101,51 +101,25 @@
   margin: 1.5rem 0 2.5rem;
 }
 
-.research-card {
-  border: 1px solid #e2e8f0;
-  border-radius: 10px;
-  padding: 1.6rem 1.5rem;
-  background: #ffffff;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
-
-.research-card:hover {
-  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
-  transform: translateY(-2px);
-}
-
-.research-card h4 {
-  font-size: 0.96rem;
-  font-weight: 600;
-  margin-top: 0;
-  margin-bottom: 0.7rem;
-  color: #0b1a33;
-  line-height: 1.35;
-}
-
-.research-card p {
-  font-size: 0.92rem;
-  color: #475569;
-  line-height: 1.6;
-  margin-bottom: 0;
-}
-
 @media (max-width: 768px) {
   .card-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
 }
+/* People 페이지 상단 여백 제거 */
+.page-columns .column-page-left { padding-top: 0; }
+
 .profile-box {
   display: flex;
   gap: 2rem;
   align-items: flex-start;
-  margin: 1.5rem 0 2rem;
+  margin: 0.3rem 0 1rem;
 }
 
 .profile-photo img {
-  width: 200px;
-  height: 200px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   object-fit: cover;
   border: 1px solid #e2e8f0;
@@ -156,7 +130,10 @@
 }
 
 @media (max-width: 600px) {
-  .profile-box {
+  /* People 페이지 상단 여백 제거 */
+.page-columns .column-page-left { padding-top: 0; }
+
+.profile-box {
     flex-direction: column;
     align-items: center;
     text-align: center;
@@ -167,7 +144,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
   gap: 1.5rem;
-  margin: 1.5rem 0 2.5rem;
+  margin: 0.8rem 0 1.5rem;
 }
 
 .member-card {
@@ -180,22 +157,20 @@
   border-radius: 50%;
   object-fit: cover;
   border: 1px solid #e2e8f0;
-  margin-bottom: 0.7rem;
+  margin-bottom: 0.5rem;
 }
 
 .member-card p {
   margin: 0;
-  font-size: 0.92rem;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .honorary-list {
-  font-size: 0.92rem;
   line-height: 1.4;
 }
 
 .honorary-list p {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.3rem;
 }
 
 .honorary-list ul {
@@ -204,43 +179,7 @@
 }
 
 .honorary-list li {
-  margin-bottom: 0.15rem;
-}
-
-.research-list {
-  margin: 1.5rem 0 2.5rem;
-}
-
-.research-item {
-  padding: 1.8rem 0;
-  border-bottom: 1px solid #e2e8f0;
-}
-
-.research-item:first-child {
-  padding-top: 0.5rem;
-}
-
-.research-item:last-child {
-  border-bottom: none;
-}
-
-.research-item h3 {
-  font-size: 1rem;
-  font-weight: 400;
-  border-bottom: none;
-  margin-top: 0;
-  margin-bottom: 0.7rem;
-  padding-bottom: 0;
-}
-
-.research-item p {
-  font-size: 1rem;
-  line-height: 1.7;
-  color: #1f2328;
-}
-
-.research-item img {
-  margin-top: 0.8rem;
+  margin-bottom: 0.1rem;
 }
 
 .update-item {
@@ -278,7 +217,6 @@
   font-weight: 600;
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
   font-size: 0.85rem;
-  color: #57606a;
   margin-bottom: 0.3rem;
 }
 
@@ -291,4 +229,130 @@
   max-width: 100%;
   border: 1px solid #d1d9e0;
   border-radius: 6px;
+}
+
+/* People 페이지 title 여백 제거 및 사이즈 통일 */
+.quarto-title-block .quarto-title h1.title,
+h1.title,
+.title {
+  font-size: 1.3rem !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* 페이지 상단 전체 여백 제거 */
+#quarto-document-content {
+  padding-top: 0.5rem;
+}
+
+/* Index 페이지 하이라이트 밴드 */
+.highlight-band {
+  padding: 0.6rem 1rem;
+  margin: 0.5rem 0 1.5rem;
+  background: #f8faff;
+  border-radius: 4px;
+}
+
+/* index/research 전체 본문 일관성 */
+
+/* update-item 본문 일관성 */
+.update-item p {
+  line-height: 1.6;
+  margin-bottom: 0.2rem;
+}
+
+/* Alumni 리스트 */
+.quarto-document-content ul li,
+#quarto-document-content ul li {
+  line-height: 1.6;
+}
+
+/* =============================================
+   Research page — 폰트/간격 완전 통일
+   ============================================= */
+
+.research-list {
+  margin: 0.5rem 0 1.5rem;
+}
+
+.research-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.research-item:first-child { padding-top: 0.2rem; }
+.research-item:last-child  { border-bottom: none; }
+
+#quarto-document-content .research-item h3 {
+  font-weight: 600;
+  border-bottom: none;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  padding-bottom: 0;
+  color: #1f2328;
+}
+
+#quarto-document-content .research-item p,
+#quarto-document-content .research-item li {
+  line-height: 1.6 !important;
+  color: #1f2328;
+  margin-bottom: 0.4rem;
+}
+
+.research-item img {
+  margin-top: 0.6rem;
+}
+
+/* Research page intro 단락 (research-item 밖) */
+#quarto-document-content > p,
+#quarto-document-content .page-columns p:not(.research-card p):not(.member-card p):not(.honorary-list p):not(.update-item p) {
+  line-height: 1.6 !important;
+  margin-bottom: 0.4rem;
+}
+
+/* =============================================
+   Index page — Research 카드 통일
+   ============================================= */
+
+.research-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.2rem 1.2rem;
+  background: #ffffff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.research-card:hover {
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  transform: translateY(-2px);
+}
+
+#quarto-document-content .research-card h4 {
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  color: #0b1a33;
+  line-height: 1.35;
+}
+
+#quarto-document-content .research-card p {
+  line-height: 1.6 !important;
+  color: #475569;
+  margin-bottom: 0;
+}
+
+/* hero 텍스트: 전역 p 규칙 예외 */
+.hero-title, .hero-title p {
+  font-size: 2.4rem;
+  line-height: 1.25;
+}
+
+.hero-subtitle, .hero-subtitle p {
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+.update-desc {
+  font-size: 0.8rem;
+  color: #475569;
 }
