@@ -20,7 +20,7 @@ include-in-header:
 ![](images/people/jiyoun-lee.png)
 :::
 ::: profile-info
-### Jiyoun Lee
+### 이지연 (Jiyoun Lee)
 
 Professor\
 School of Biopharmaceutical and Medical Sciences\
@@ -125,7 +125,7 @@ Undergraduate researcher
 
 **2022**
 
-- 최나은, Researcher, 팡스존
+- 최나은, Researcher, 펩스젠
 
 **2021**
 
@@ -142,7 +142,7 @@ Undergraduate researcher
 
 **2018**
 
-- 송다선, Researcher, 광주과기원 화학과 박사과정
+- 송다솜, Researcher, 광주과기원 화학과 박사과정
 - 박영훈, Graduate student
 
 **2017**

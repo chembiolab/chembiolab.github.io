@@ -187,14 +187,14 @@ page-layout: full
 
 7\. Wang Y, Szabo T, Welter JD, Toth A, Tran R, **Lee J.**, Kang S-U, Suh Y-G, Blumberg PM, Lee J. [High Affinity Antagonists of the Vanilloid Receptor..](https://doi.org/10.1124/mol.62.4.947) *Mol. Pharmacol.* **2002**, *62*, 947-956.
 
-6\. Lee J., **Lee J.**, Kang MS, Kim KP, Chung SJ, Blumberg PM, Yi JB, Park YH. [Phenolic Modification as an Approach to Improve the Pharmacology of the 3-Acyloxy-2-benzylpropyl Homovanillic Amides and Thioureas, a Promising Class of Vanilloid Receptor Agonist and Analgesics..](https://doi.org/10.1016/S0968-0896(01) *Bioorg. Med. Chem.* **2002**, *10*, 1171-1179.00422-4)
+6\. Lee J., **Lee J.**, Kang MS, Kim KP, Chung SJ, Blumberg PM, Yi JB, Park YH. [Phenolic Modification as an Approach to Improve the Pharmacology of the 3-Acyloxy-2-benzylpropyl Homovanillic Amides and Thioureas, a Promising Class of Vanilloid Receptor Agonist and Analgesics.](<https://doi.org/10.1016/S0968-0896(01)00387-X>) *Bioorg. Med. Chem.* **2002**, *10*, 1171-1179.
 
-5\. Lee J., **Lee J.**, Szabo T, Gonzalez AF, Welter JD, Blumberg PM. [N-(3-Acyloxy-2-benzylpropyl)-N-Dihydroxy Tetrahydrobenzazepine and Tetrahydroisoquinoline Thiourea Analogues as Vanilloid Receptor Ligands..](https://doi.org/10.1016/S0968-0896(01) *Bioorg. Med. Chem.* **2001**, *9*, 1713-1720.00127-X)
+5\. Lee J., **Lee J.**, Szabo T, Gonzalez AF, Welter JD, Blumberg PM. [N-(3-Acyloxy-2-benzylpropyl)-N-Dihydroxy Tetrahydrobenzazepine and Tetrahydroisoquinoline Thiourea Analogues as Vanilloid Receptor Ligands.](<https://doi.org/10.1016/S0968-0896(01)00068-2>) *Bioorg. Med. Chem.* **2001**, *9*, 1713-1720.
 
-4\. Lee J., **Lee J.**, Kim J, Kim SY, Chun MW, Cho H, Hwang SW, Oh U, Park YH, Marquez VE, Beheshti M, Szabo T, Blumberg PM. [N-(3-Acyloxy-2-benzylpropyl)-N-(4-hydroxy-3-methoxy benzyl)thiourea Derivatives as Potent Vanilloid Receptor Agonists and Analgesics..](https://doi.org/10.1016/S0968-0896(00) *Bioorg. Med. Chem.* **2001**, *9*, 19-32.00244-6)
+4\. Lee J., **Lee J.**, Kim J, Kim SY, Chun MW, Cho H, Hwang SW, Oh U, Park YH, Marquez VE, Beheshti M, Szabo T, Blumberg PM. [N-(3-Acyloxy-2-benzylpropyl)-N-(4-hydroxy-3-methoxy benzyl)thiourea Derivatives as Potent Vanilloid Receptor Agonists and Analgesics.](<https://doi.org/10.1016/S0968-0896(00)00216-9>) *Bioorg. Med. Chem.* **2001**, *9*, 19-32.
 
-3\. Lee J., Park SU, Kim JY, Kim JK, **Lee J.**, Oh U, Marquez VE, Beheshti M, Wang QJ, Modarres S, Blumberg PM. [N-Acyloxy-2-phenalkylpropyl Amides and Esters of Homovanillic Acid as Novel Vanilloid receptor Agonists..](https://doi.org/10.1016/S0960-894X(99) *Bioorg. Med. Chem. Lett.* **1999**, *9*, 2909-2914.00499-4)
+3\. Lee J., Park SU, Kim JY, Kim JK, **Lee J.**, Oh U, Marquez VE, Beheshti M, Wang QJ, Modarres S, Blumberg PM. [N-Acyloxy-2-phenalkylpropyl Amides and Esters of Homovanillic Acid as Novel Vanilloid receptor Agonists.](<https://doi.org/10.1016/S0960-894X(99)00513-2>) *Bioorg. Med. Chem. Lett.* **1999**, *9*, 2909-2914.
 
-2\. Chun KS, Sohn Y, Kim HS, Kim OH, Park KK, Lee JM, **Lee J.**, Lee J, Moon A, Lee SS, Surh YJ. [Anti-tumor Promoting Potential of Naturally Occurring Diarylheptanoids Stucturally Related to Curcumin..](https://doi.org/10.1016/S1383-5742(99) *Mutat. Res.* **1999**, *428*, 49-57.00065-4)
+2\. Chun KS, Sohn Y, Kim HS, Kim OH, Park KK, Lee JM, **Lee J.**, Lee J, Moon A, Lee SS, Surh YJ. [Anti-tumor Promoting Potential of Naturally Occurring Diarylheptanoids Stucturally Related to Curcumin.](<https://doi.org/10.1016/S1383-5742(99)00031-9>) *Mutat. Res.* **1999**, *428*, 49-57.
 
 1\. Lee J., **Lee J.** [A Facile and Practical Synthesis of Capsazepine, A Vanilloid Receptor Antagonist..](https://doi.org/10.1080/00397919908085886) *Synthetic Commun.* **1999**, *29*, 4127-4140.
