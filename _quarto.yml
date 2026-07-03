@@ -4,7 +4,7 @@ project:
 website:
   title: "Drug Target and Biomarker Discovery Laboratory"
   navbar:
-    background: "#ffffff"
+    background: "#f6f8fa"
     foreground: "#111827"
     pinned: true
     right:
@@ -25,7 +25,7 @@ website:
 
 format:
   html:
-    theme: [cosmo, custom.scss]
+    theme: cosmo
     css: styles.css
     toc: false
-    page-layout: article
+    page-layout: full

@@ -1,4 +1,17 @@
-# People
+---
+title: "People"
+toc: true
+toc-location: left
+toc-title: "People"
+toc-depth: 2
+include-in-header:
+  text: |
+    <style>
+    h2 { font-size: 1.05rem; margin-top: 1.0rem; margin-bottom: 0.3rem; }
+    h3 { font-size: 0.88rem; margin-top: 0.5rem; margin-bottom: 0.2rem; border-bottom: none !important; padding-bottom: 0 !important; }
+    p, li { font-size: 0.88rem; line-height: 1.6; margin-bottom: 0.25rem; }
+    </style>
+---
 
 ## Principal Investigator
 
@@ -21,30 +34,28 @@ Phone: +82-2-920-7281
 :::
 ::::
 
-## Education
+### Education
 
-- 2006: Ph.D. in Bioinorganic Chemistry, Northwestern University (Advisor: Prof. Thomas J. Meade)\  
-- 2000: M.S. in Medicinal Chemistry, Seoul National University (Advisor: Prof. Jeewoo Lee)\ 
+- 2006: Ph.D. in Bioinorganic Chemistry, Northwestern University (Advisor: Prof. Thomas J. Meade)
+- 2000: M.S. in Medicinal Chemistry, Seoul National University (Advisor: Prof. Jeewoo Lee)
 - 1998: B.S. in Pharmacy, Seoul National University
 
-## Experience
+### Experience
 
 - 2023–Present: Professor, School of Biopharmaceutical and Medical Sciences, Sungshin University
 - 2021–2022: Associate Professor, School of Biopharmaceutical and Medical Sciences, Sungshin University
 - 2018–2022: Associate Professor, Department of Global Medical Science, Sungshin University
 - 2012–2017: Assistant Professor, Department of Global Medical Science, Sungshin University
 - 2010–2012: Senior Research Scientist, Korea Institute of Science and Technology
-- 2008–2010: Postdoctoral Research Associate, Stanford University School of Medicine\
-  Advisor: Prof. Matthew Bogyo
-- 2006–2007: Postdoctoral Research Associate, University of California, Berkeley\
-  Advisor: Prof. Christopher J. Chang
+- 2008–2010: Postdoctoral Research Associate, Stanford University School of Medicine (Advisor: Prof. Matthew Bogyo)
+- 2006–2007: Postdoctoral Research Associate, University of California, Berkeley (Advisor: Prof. Christopher J. Chang)
 
 ## Current Members
 
 <!--
 새 멤버 추가: 아래 ::: member-card ... ::: 블록을 통째로 복사해서
 member-grid 안 마지막 카드 뒤에 붙여넣고, 사진 파일명/이름/직함만 바꾸면 됩니다.
-사진은 images/people/ 폴더에 정사각형(또는 그에 가까운) 비율로 넣어주세요.
+사진은 images/people/ 폴더에 정사각형 비율로 넣어주세요.
 -->
 
 :::::::: member-grid
@@ -105,7 +116,7 @@ Undergraduate researcher
 - 이름, 직함/소속
 -->
 
-::: honorary-list
+::: {.honorary-list}
 **2024**
 
 - 전혜빈, M.S. student
@@ -114,7 +125,7 @@ Undergraduate researcher
 
 **2022**
 
-- 최나은, Researcher, 펩스젠
+- 최나은, Researcher, 팡스존
 
 **2021**
 
@@ -131,7 +142,7 @@ Undergraduate researcher
 
 **2018**
 
-- 송다솜, Researcher, 광주과기원 화학과 박사과정
+- 송다선, Researcher, 광주과기원 화학과 박사과정
 - 박영훈, Graduate student
 
 **2017**

@@ -1,251 +1,71 @@
+/* ============================================================
+   chembiolab — styles.css
+   컴포넌트 레이아웃 전용. 타이포그래피는 custom.scss에서만.
+   ============================================================ */
+
+/* ── 공통 ── */
+#quarto-document-content {
+  padding-top: 1.5rem;
+}
+
+/* ── Hero 배너 ── */
 .hero-graphic {
   position: relative;
-  left: 50%;
-  width: 100vw;
-  margin-left: -50vw;
-  margin-top: 0;
-  margin-bottom: 2.5rem;
+  left: 50%; width: 100vw; margin-left: -50vw;
+  margin-top: 0; margin-bottom: 2rem;
   padding: 1.6rem 2rem 1.4rem;
   text-align: center;
   background: #0b1a33;
   overflow: hidden;
 }
-
-/* 연구 이미지 콜라주 레이어 */
 .hero-graphic::before {
   content: "";
-  position: absolute;
-  inset: -20px;
+  position: absolute; inset: -20px;
   background-image:
-    url("images/collage-4.png"),
-    url("images/collage-5.png"),
-    url("images/collage-1.png"),
-    url("images/collage-3.png"),
+    url("images/collage-4.png"), url("images/collage-5.png"),
+    url("images/collage-1.png"), url("images/collage-3.png"),
     url("images/collage-2.png");
   background-repeat: no-repeat;
-  background-position:
-    -40px -60px,
-    right -60px top -40px,
-    left 18% bottom -50px,
-    right 12% bottom -30px,
-    center 40px;
-  background-size:
-    480px auto,
-    320px auto,
-    260px auto,
-    220px auto,
-    300px auto;
+  background-position: -40px -60px, right -60px top -40px,
+    left 18% bottom -50px, right 12% bottom -30px, center 40px;
+  background-size: 480px auto, 320px auto, 260px auto, 220px auto, 300px auto;
   filter: blur(3px) saturate(0.95) brightness(0.95);
   opacity: 0.7;
 }
-
-/* 가독성을 위한 그라데이션 오버레이 */
 .hero-graphic::after {
   content: "";
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(135deg, rgba(11, 19, 32, 0.4) 0%, rgba(15, 32, 56, 0.32) 45%, rgba(29, 78, 216, 0.28) 100%);
+  position: absolute; inset: 0;
+  background: linear-gradient(135deg,
+    rgba(11,19,32,0.4) 0%, rgba(15,32,56,0.32) 45%, rgba(29,78,216,0.28) 100%);
 }
-
 .hero-title {
-  position: relative;
-  z-index: 1;
-  color: #ffffff;
+  position: relative; z-index: 1;
+  color: #fff;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: -0.015em;
   line-height: 1.25;
-  max-width: 900px;
-  margin: 0 auto 0.6rem;
-  text-shadow: 0 1px 14px rgba(0, 0, 0, 0.65);
+  max-width: 900px; margin: 0 auto 0.6rem;
+  text-shadow: 0 1px 14px rgba(0,0,0,0.65);
 }
-
+.hero-title p { font-size: 2.4rem; line-height: 1.25; }
 .hero-subtitle {
-  position: relative;
-  z-index: 1;
-  color: rgba(255, 255, 255, 0.85);
+  position: relative; z-index: 1;
+  color: rgba(255,255,255,0.85);
   font-family: Calibri, "Trebuchet MS", sans-serif;
-  font-style: italic;
-  font-weight: 700;
+  font-style: italic; font-weight: 700;
   font-size: 1.05rem;
-  max-width: 560px;
-  margin: 0 auto;
-  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+  max-width: 560px; margin: 0 auto;
+  text-shadow: 0 1px 10px rgba(0,0,0,0.5);
 }
-
+.hero-subtitle p { font-size: 1.05rem; }
 @media (max-width: 768px) {
-  .hero-graphic {
-    padding: 1.4rem 1.25rem 1.2rem;
-  }
-  .hero-graphic::before {
-    background-size:
-      280px auto,
-      200px auto,
-      160px auto,
-      140px auto,
-      180px auto;
-  }
-  .hero-title {
-    font-size: 1.5rem;
-    font-weight: 400;
-  }
-  .hero-subtitle {
-    font-size: 0.85rem;
-  }
+  .hero-title    { font-size: 1.5rem; }
+  .hero-title p  { font-size: 1.5rem; }
+  .hero-subtitle { font-size: 0.85rem; }
 }
 
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.25rem;
-  margin: 1.5rem 0 2.5rem;
-}
-
-@media (max-width: 768px) {
-  .card-grid {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-}
-/* People 페이지 상단 여백 제거 */
-.page-columns .column-page-left { padding-top: 0; }
-
-.profile-box {
-  display: flex;
-  gap: 2rem;
-  align-items: flex-start;
-  margin: 0.3rem 0 1rem;
-}
-
-.profile-photo img {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 1px solid #e2e8f0;
-}
-
-.profile-info h3 {
-  margin-top: 0;
-}
-
-@media (max-width: 600px) {
-  /* People 페이지 상단 여백 제거 */
-.page-columns .column-page-left { padding-top: 0; }
-
-.profile-box {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-}
-
-.member-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
-  gap: 1.5rem;
-  margin: 0.8rem 0 1.5rem;
-}
-
-.member-card {
-  text-align: center;
-}
-
-.member-card img {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 1px solid #e2e8f0;
-  margin-bottom: 0.5rem;
-}
-
-.member-card p {
-  margin: 0;
-  line-height: 1.4;
-}
-
-.honorary-list {
-  line-height: 1.4;
-}
-
-.honorary-list p {
-  margin-bottom: 0.3rem;
-}
-
-.honorary-list ul {
-  margin-top: 0.2rem;
-  margin-bottom: 1rem;
-}
-
-.honorary-list li {
-  margin-bottom: 0.1rem;
-}
-
-.update-item {
-  position: relative;
-  border-left: none;
-  background: transparent;
-  padding: 0.2rem 0 0.2rem 1.2rem;
-  margin-bottom: 1.4rem;
-  border-radius: 0;
-  box-shadow: none;
-}
-
-.update-item::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 3px;
-  background: #94a3b8;
-}
-
-.update-item::after {
-  content: "";
-  position: absolute;
-  left: 3px;
-  top: 0;
-  bottom: 0;
-  width: 3px;
-  background: #2563eb;
-}
-
-.update-date {
-  display: inline-block;
-  font-weight: 600;
-  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
-  font-size: 0.85rem;
-  margin-bottom: 0.3rem;
-}
-
-.update-item p {
-  margin-bottom: 0.2rem;
-}
-
-.update-item img {
-  margin-top: 0.8rem;
-  max-width: 100%;
-  border: 1px solid #d1d9e0;
-  border-radius: 6px;
-}
-
-/* People 페이지 title 여백 제거 및 사이즈 통일 */
-.quarto-title-block .quarto-title h1.title,
-h1.title,
-.title {
-  font-size: 1.3rem !important;
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* 페이지 상단 전체 여백 제거 */
-#quarto-document-content {
-  padding-top: 0.5rem;
-}
-
-/* Index 페이지 하이라이트 밴드 */
+/* ── Index: highlight-band ── */
 .highlight-band {
   padding: 0.6rem 1rem;
   margin: 0.5rem 0 1.5rem;
@@ -253,106 +73,240 @@ h1.title,
   border-radius: 4px;
 }
 
-/* index/research 전체 본문 일관성 */
-
-/* update-item 본문 일관성 */
-.update-item p {
-  line-height: 1.6;
-  margin-bottom: 0.2rem;
+/* ── Index: 카드 그리드 ── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 1rem 0 2rem;
 }
-
-/* Alumni 리스트 */
-.quarto-document-content ul li,
-#quarto-document-content ul li {
-  line-height: 1.6;
+@media (max-width: 768px) {
+  .card-grid { grid-template-columns: 1fr; gap: 1rem; }
 }
-
-/* =============================================
-   Research page — 폰트/간격 완전 통일
-   ============================================= */
-
-.research-list {
-  margin: 0.5rem 0 1.5rem;
-}
-
-.research-item {
-  padding: 1rem 0;
-  border-bottom: 1px solid #e2e8f0;
-}
-
-.research-item:first-child { padding-top: 0.2rem; }
-.research-item:last-child  { border-bottom: none; }
-
-#quarto-document-content .research-item h3 {
-  font-weight: 600;
-  border-bottom: none;
-  margin-top: 0;
-  margin-bottom: 0.4rem;
-  padding-bottom: 0;
-  color: #1f2328;
-}
-
-#quarto-document-content .research-item p,
-#quarto-document-content .research-item li {
-  line-height: 1.6 !important;
-  color: #1f2328;
-  margin-bottom: 0.4rem;
-}
-
-.research-item img {
-  margin-top: 0.6rem;
-}
-
-/* Research page intro 단락 (research-item 밖) */
-#quarto-document-content > p,
-#quarto-document-content .page-columns p:not(.research-card p):not(.member-card p):not(.honorary-list p):not(.update-item p) {
-  line-height: 1.6 !important;
-  margin-bottom: 0.4rem;
-}
-
-/* =============================================
-   Index page — Research 카드 통일
-   ============================================= */
-
 .research-card {
   border: 1px solid #e2e8f0;
   border-radius: 10px;
-  padding: 1.2rem 1.2rem;
-  background: #ffffff;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  padding: 1.1rem;
+  background: #fff;
+  transition: box-shadow 0.2s, transform 0.2s;
 }
-
 .research-card:hover {
-  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  box-shadow: 0 8px 24px rgba(15,23,42,0.08);
   transform: translateY(-2px);
 }
 
-#quarto-document-content .research-card h4 {
+/* ── Research 페이지 ── */
+.research-list { margin: 0.5rem 0 1rem; }
+.research-item {
+  padding: 0.8rem 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+.research-item:last-child { border-bottom: none; }
+.research-item h3 {
+  border-bottom: none;
+  margin-top: 0; padding-bottom: 0;
+}
+.research-item img { margin-top: 0.5rem; }
+
+/* ── People 페이지 ── */
+.profile-box {
+  display: flex; gap: 2rem;
+  align-items: flex-start;
+  margin: 0.5rem 0 1rem;
+}
+.profile-photo img {
+  width: 140px; height: 140px;
+  border-radius: 50%; object-fit: cover;
+  border: 1px solid #e2e8f0;
+}
+.profile-info h3 { margin-top: 0; border-bottom: none; }
+@media (max-width: 600px) {
+  .profile-box { flex-direction: column; align-items: center; text-align: center; }
+}
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 1.5rem; margin: 0.5rem 0 1rem;
+}
+.member-card { text-align: center; }
+.member-card img {
+  width: 130px; height: 130px;
+  border-radius: 50%; object-fit: cover;
+  border: 1px solid #e2e8f0; margin-bottom: 0.4rem;
+}
+.honorary-list { }
+.honorary-list p, .honorary-list li { font-size: 0.8rem; line-height: 1.5; margin-bottom: 0.15rem; }
+.honorary-list ul { margin-top: 0.2rem; margin-bottom: 0.8rem; }
+
+/* ── Lab Updates ── */
+.update-item {
+  position: relative;
+  padding: 0.2rem 0 0.2rem 1.2rem;
+  margin-bottom: 1.2rem;
+}
+.update-item::before {
+  content: ""; position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px; background: #94a3b8;
+}
+.update-item::after {
+  content: ""; position: absolute;
+  left: 3px; top: 0; bottom: 0;
+  width: 3px; background: #2563eb;
+}
+.update-date {
+  display: inline-block;
   font-weight: 600;
-  margin-top: 0;
-  margin-bottom: 0.4rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.88rem;
+  margin-bottom: 0.2rem;
+}
+.update-desc { font-size: 0.8rem; color: #57606a; }
+
+/* ── Publications 페이지 ── */
+.page-full #quarto-document-content {
+  padding-top: 2rem;
+  max-width: 860px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+
+
+/* 연도 헤더: 작게 */
+.page-full h2 {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #57606a;
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.2em;
+}
+
+/* 논문 단락 hanging indent — DOI 링크 포함 단락만 적용 */
+#quarto-document-content p:has(a[href^="https://doi.org"]) {
+  padding-left: 1.8rem;
+  text-indent: -1.8rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.65;
+}
+
+/* TOC 사이드바 */
+#TOC .toc-title, nav#TOC .toc-title {
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: #57606a;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+#TOC a { font-size: 0.8rem; color: #57606a; line-height: 1.8; }
+#TOC a:hover { color: #0969da; text-decoration: none; }
+#TOC a.active { color: #0969da; font-weight: 600; }
+
+/* ── Research 이미지 카드 (Bertozzi 스타일) ── */
+.research-card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+@media (max-width: 900px) {
+  .research-card-grid { grid-template-columns: 1fr; }
+}
+
+.research-img-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.research-img-card:hover {
+  box-shadow: 0 6px 20px rgba(15,23,42,0.10);
+  transform: translateY(-3px);
+}
+
+/* 이미지: 카드 상단에 꽉 차게 */
+.research-img-card > p:first-child {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+  text-indent: 0;
+}
+
+.research-img-card > p:first-child img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px 10px 0 0;
+}
+
+/* 제목과 본문 영역 */
+.research-img-card h4 {
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin: 0.9rem 1rem 0.4rem;
   color: #0b1a33;
-  line-height: 1.35;
-}
-
-#quarto-document-content .research-card p {
-  line-height: 1.6 !important;
-  color: #475569;
-  margin-bottom: 0;
-}
-
-/* hero 텍스트: 전역 p 규칙 예외 */
-.hero-title, .hero-title p {
-  font-size: 2.4rem;
-  line-height: 1.25;
-}
-
-.hero-subtitle, .hero-subtitle p {
-  font-size: 1.05rem;
   line-height: 1.4;
+  border-bottom: none;
+  padding-bottom: 0;
 }
 
-.update-desc {
-  font-size: 0.8rem;
+.research-img-card > p:not(:first-child) {
+  font-size: 0.85rem;
+  line-height: 1.6;
   color: #475569;
+  margin: 0 1rem 1rem;
+  padding: 0;
+  text-indent: 0;
 }
+
+/* ── 모든 페이지 title 통일 ── */
+.quarto-title h1.title,
+h1.title {
+  font-size: 1.8rem !important;
+  font-weight: 700 !important;
+  border-bottom: 1px solid #d1d9e0;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.5rem;
+}
+
+/* research 카드 이미지: hanging indent 무효화 */
+.research-img-card p {
+  padding-left: 0 !important;
+  text-indent: 0 !important;
+}
+
+/* research 카드 이미지 영역 */
+.research-img-card > p:first-child {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+.research-img-card > p:first-child img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px 10px 0 0;
+}
+
+/* research 카드 텍스트: 충분한 안쪽 여백 */
+.research-img-card h4 {
+  margin: 1rem 1.1rem 0.4rem;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.research-img-card > p:not(:first-child) {
+  margin: 0 1.1rem 1.1rem;
+  line-height: 1.6;
+  color: #475569;
+  font-size: 0.85rem;
+}
+
+.update-item p { font-size: 0.88rem; line-height: 1.6; margin-bottom: 0.15rem; }
