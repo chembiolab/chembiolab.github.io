@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website:
   title: "Drug Target and Biomarker Discovery Laboratory"
+  favicon: favicon.png
   navbar:
     background: "#f6f8fa"
     foreground: "#111827"
