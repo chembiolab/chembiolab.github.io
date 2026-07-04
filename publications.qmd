@@ -5,6 +5,15 @@ toc-location: left
 toc-title: "Year"
 toc-depth: 2
 page-layout: full
+include-in-header:
+  text: |
+    <style>
+    #quarto-document-content p,
+    #quarto-document-content li {
+      font-size: 0.88rem !important;
+      line-height: 1.6 !important;
+    }
+    </style>
 ---
 
 ## 2026 {#pub2026}
