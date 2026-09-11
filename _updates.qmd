@@ -2,8 +2,38 @@
 <div class="update-item">
   <div style="position:absolute;left:0;top:0;bottom:0;width:3px;background:#94a3b8;"></div>
   <div style="position:absolute;left:3px;top:0;bottom:0;width:3px;background:#2563eb;"></div>
+  <span style="display:block;font-size:0.88rem;font-weight:600;font-family:ui-monospace,monospace;margin-bottom:0.15rem;">2026.09.01</span>
+  <span style="display:block;font-size:0.88rem;font-weight:600;margin-bottom:0.15rem;">학부연구생 3명 연구실 합류.</span>
+  <span style="display:block;font-size:0.88rem;color:#475569;">임수민, 박성은, 이유진이 학부연구생으로 연구실에 합류했습니다. Welcome!</span>
+</div>
+
+<div class="update-item">
+  <div style="position:absolute;left:0;top:0;bottom:0;width:3px;background:#94a3b8;"></div>
+  <div style="position:absolute;left:3px;top:0;bottom:0;width:3px;background:#2563eb;"></div>
+  <span style="display:block;font-size:0.88rem;font-weight:600;font-family:ui-monospace,monospace;margin-bottom:0.15rem;">2026.08.20</span>
+  <span style="display:block;font-size:0.88rem;font-weight:600;margin-bottom:0.15rem;">류주희 석사과정 졸업.</span>
+  <span style="display:block;font-size:0.88rem;color:#475569;">류주희 학생이 석사 학위를 취득하고 졸업했습니다. Congratulations!</span>
+</div>
+
+<div class="update-item">
+  <div style="position:absolute;left:0;top:0;bottom:0;width:3px;background:#94a3b8;"></div>
+  <div style="position:absolute;left:3px;top:0;bottom:0;width:3px;background:#2563eb;"></div>
+  <span style="display:block;font-size:0.88rem;font-weight:600;font-family:ui-monospace,monospace;margin-bottom:0.15rem;">2026.08.15</span>
+  <span style="display:block;font-size:0.88rem;font-weight:600;margin-bottom:0.15rem;">후드 이전 및 실험실 공간 확장.</span>
+  <span style="display:block;font-size:0.88rem;color:#475569;">연구실 후드가 이전되고 실험 공간이 확장되었습니다.</span>
+</div>
+
+<div class="update-item">
+  <div style="position:absolute;left:0;top:0;bottom:0;width:3px;background:#94a3b8;"></div>
+  <div style="position:absolute;left:3px;top:0;bottom:0;width:3px;background:#2563eb;"></div>
   <span style="display:block;font-size:0.88rem;font-weight:600;font-family:ui-monospace,monospace;margin-bottom:0.15rem;">2026.07.01</span>
   <span style="display:block;font-size:0.88rem;font-weight:600;margin-bottom:0.15rem;">Lab website migration complete.</span>
   <span style="display:block;font-size:0.88rem;color:#475569;">The Drug Target and Biomarker Discovery Laboratory website has been successfully migrated to Quarto and GitHub Pages.</span>
+</div>
+
+<div id="old-news-link" style="display:none;margin-top:0.2rem;">
+  <a href="news.html" style="font-size:0.85rem;color:#2563eb;text-decoration:none;">
+    오래된 소식 더 보기 → News 페이지
+  </a>
 </div>
 ```

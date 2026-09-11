@@ -68,13 +68,6 @@ Ph.D. student
 :::
 
 ::: member-card
-![](images/people/ryu-juhee.png)
-
-**류주희**\
-M.S. student
-:::
-
-::: member-card
 ![](images/people/kim-hyemin.png)
 
 **김혜민**\
@@ -92,6 +85,29 @@ Combined B.S./M.S. student
 ![](images/people/shin-boyoung.jpg)
 
 **신보영**\
+M.S. student
+:::
+::::::::
+
+:::::::: member-grid
+::: member-card
+![](images/people/im-sumin.jpg)
+
+**임수민**\
+Undergraduate researcher
+:::
+
+::: member-card
+![](images/people/lee-yujin.jpg)
+
+**이유진**\
+Undergraduate researcher
+:::
+
+::: member-card
+<div style="width:130px;height:130px;border-radius:50%;background:#e2e8f0;display:flex;align-items:center;justify-content:center;margin:0 auto 0.4rem;border:1px solid #e2e8f0;"><svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 24 24" fill="#94a3b8"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg></div>
+
+**박성은**\
 Undergraduate researcher
 :::
 ::::::::
@@ -101,12 +117,13 @@ Undergraduate researcher
 <!--
 졸업생 추가 형식: - 이름, 학위 연도–연도, 현재 소속(선택)
 -->
-- 나여경, M.S. 2015–2017, 단디큐어
-- 홍종아, M.S. 2016–2018, 식약처
-- 이지유, M.S. 2020–2022, 피코엔텍
-- 박은채, M.S. 2021–2023, 이람화학
-- 한수정, M.S. 2023–2025, 한국건설생활환경시험연구원
+- 류주희, M.S. 2024–2026
 - 이유나, M.S. 2024–2026, 대구경북첨단의료산업진흥재단 신약개발센터
+- 한수정, M.S. 2023–2025, 한국건설생활환경시험연구원
+- 박은채, M.S. 2021–2023, 이람화학
+- 이지유, M.S. 2020–2022, 피코엔텍
+- 홍종아, M.S. 2016–2018, 식약처
+- 나여경, M.S. 2015–2017, 단디큐어
 
 ## Honorary Members
 

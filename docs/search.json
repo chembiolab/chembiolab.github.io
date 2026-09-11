@@ -18,14 +18,14 @@
     "href": "people.html#current-members",
     "title": "People",
     "section": "Current Members",
-    "text": "Current Members\n\n\n\n\n김은지\nPh.D. student\n\n\n\n류주희\nM.S. student\n\n\n\n김혜민\nM.S. student\n\n\n\n박주희\nCombined B.S./M.S. student\n\n\n\n신보영\nUndergraduate researcher"
+    "text": "Current Members\n\n\n\n\n김은지\nPh.D. student\n\n\n\n김혜민\nM.S. student\n\n\n\n박주희\nCombined B.S./M.S. student\n\n\n\n신보영\nM.S. student\n\n\n\n\n\n임수민\nUndergraduate researcher\n\n\n\n이유진\nUndergraduate researcher\n\n\n\n\n\n\n\n박성은\nUndergraduate researcher"
   },
   {
     "objectID": "people.html#alumni",
     "href": "people.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\n\n나여경, M.S. 2015–2017, 단디큐어\n홍종아, M.S. 2016–2018, 식약처\n이지유, M.S. 2020–2022, 피코엔텍\n박은채, M.S. 2021–2023, 이람화학\n한수정, M.S. 2023–2025, 한국건설생활환경시험연구원\n이유나, M.S. 2024–2026, 대구경북첨단의료산업진흥재단 신약개발센터"
+    "text": "Alumni\n\n\n류주희, M.S. 2024–2026\n이유나, M.S. 2024–2026, 대구경북첨단의료산업진흥재단 신약개발센터\n한수정, M.S. 2023–2025, 한국건설생활환경시험연구원\n박은채, M.S. 2021–2023, 이람화학\n이지유, M.S. 2020–2022, 피코엔텍\n홍종아, M.S. 2016–2018, 식약처\n나여경, M.S. 2015–2017, 단디큐어"
   },
   {
     "objectID": "people.html#honorary-members",
@@ -46,14 +46,14 @@
     "href": "index.html#lab-updates",
     "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "Lab Updates",
-    "text": "Lab Updates\n\n  \n  \n  2026.07.01\n  Lab website migration complete.\n  The Drug Target and Biomarker Discovery Laboratory website has been successfully migrated to Quarto and GitHub Pages."
+    "text": "Lab Updates\n\n  \n  \n  2026.09.01\n  학부연구생 3명 연구실 합류.\n  임수민, 박성은, 이유진이 학부연구생으로 연구실에 합류했습니다. Welcome!\n\n\n\n  \n  \n  2026.08.20\n  류주희 석사과정 졸업.\n  류주희 학생이 석사 학위를 취득하고 졸업했습니다. Congratulations!\n\n\n\n  \n  \n  2026.08.15\n  후드 이전 및 실험실 공간 확장.\n  연구실 후드가 이전되고 실험 공간이 확장되었습니다.\n\n\n\n  \n  \n  2026.07.01\n  Lab website migration complete.\n  The Drug Target and Biomarker Discovery Laboratory website has been successfully migrated to Quarto and GitHub Pages.\n\n\n\n  \n    오래된 소식 더 보기 → News 페이지"
   },
   {
     "objectID": "index.html#research-areas",
     "href": "index.html#research-areas",
     "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "Research Areas",
-    "text": "Research Areas\n\n\nActivity-Based Probes\nWe develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases.\n\n\nMolecular Biomarker Discovery and Fluorescent Probe Development\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.\n\n\nPeptidomimetic Transporters\nWe develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos."
+    "text": "Research Areas\n\n\n\nActivity-Based Probes\nWe develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases.\n\n\nMolecular Biomarker Discovery and Fluorescent Probe Development\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.\n\n\nPeptidomimetic Transporters\nWe develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos."
   },
   {
     "objectID": "join.html",
@@ -88,14 +88,14 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "June 2026\nNews item here."
+    "text": "2026.07.01\nLab website migration complete. The Drug Target and Biomarker Discovery Laboratory website has been successfully migrated to Quarto and GitHub Pages."
   },
   {
     "objectID": "news.html#section",
     "href": "news.html#section",
     "title": "News",
     "section": "",
-    "text": "June 2026\nNews item here."
+    "text": "2026.07.01\nLab website migration complete. The Drug Target and Biomarker Discovery Laboratory website has been successfully migrated to Quarto and GitHub Pages."
   },
   {
     "objectID": "publications.html",
