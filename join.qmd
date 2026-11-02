@@ -1,4 +1,10 @@
-![](images/labpic.jpg){width="450"} ![](images/labpic2.png){width="265"}
+```{=html}
+<div class="join-photos" style="display:flex;flex-wrap:wrap;align-items:flex-start;gap:12px;margin-bottom:1rem;">
+  <img src="images/labpic.jpg" alt="Research group photo" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
+  <img src="images/labpic2.png" alt="Research group photo" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
+  <img src="images/IMG_4760.jpg" alt="Group photo at the 27th Korean Peptide Protein Society Symposium, Busan, 2024" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
+</div>
+```
 
 We welcome motivated students and researchers interested in chemical biology, medicinal chemistry, molecular probes, drug target discovery, biomarker identification, and disease-relevant small-molecule tools.
 
@@ -18,3 +24,10 @@ Prospective students and collaborators are encouraged to contact us if they are 
 운정그린캠퍼스 A동 246a 공동연구실
 
 Email: jlee at sungshin.ac.kr
+
+```{=html}
+<div class="join-photo-bottom" style="display:flex;flex-wrap:wrap;align-items:flex-start;gap:12px;margin:1.5rem 0 1rem;">
+  <img src="images/IMG_6344.JPG" alt="Research group gathering in the office" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
+  <img src="images/IMG_3556.jpg" alt="Research group photo in the laboratory" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
+</div>
+```
