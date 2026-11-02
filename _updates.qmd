@@ -1,4 +1,5 @@
 ```{=html}
+<div class="news-list">
 <div class="update-item">
   <div style="position:absolute;left:0;top:0;bottom:0;width:3px;background:#94a3b8;"></div>
   <div style="position:absolute;left:3px;top:0;bottom:0;width:3px;background:#2563eb;"></div>
@@ -30,10 +31,28 @@
   <span style="display:block;font-size:0.88rem;font-weight:600;margin-bottom:0.15rem;">Lab website migration complete.</span>
   <span style="display:block;font-size:0.88rem;color:#475569;">The Drug Target and Biomarker Discovery Laboratory website has been successfully migrated to Quarto and GitHub Pages.</span>
 </div>
-
-<div id="old-news-link" style="display:none;margin-top:0.2rem;">
-  <a href="news.html" style="font-size:0.85rem;color:#2563eb;text-decoration:none;">
-    오래된 소식 더 보기 → News 페이지
-  </a>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var list = document.querySelector('.news-list');
+  if (!list) return;
+  var isHome = document.getElementById('lab-updates') !== null;
+  var items = Array.from(list.querySelectorAll('.update-item'));
+
+  function newsDate(item) {
+    var dateSpan = item.querySelector('span[style*="monospace"]');
+    return dateSpan ? Number(dateSpan.textContent.trim().replace(/\D/g, '')) : 0;
+  }
+
+  items.sort(function (a, b) { return newsDate(b) - newsDate(a); });
+  items.forEach(function (item, index) {
+    list.appendChild(item);
+    item.style.display = isHome && index >= 2 ? 'none' : '';
+  });
+
+  var emptyMessage = document.getElementById('no-recent-news');
+  if (emptyMessage) emptyMessage.hidden = items.length > 0;
+});
+</script>
 ```
