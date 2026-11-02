@@ -2,8 +2,8 @@
 title: "News"
 ---
 
-## 2026
+::: {#news-archive}
 
-**2026.07.01**
+{{< include _updates.qmd >}}
 
-Lab website migration complete. The Drug Target and Biomarker Discovery Laboratory website has been successfully migrated to Quarto and GitHub Pages.
+:::
