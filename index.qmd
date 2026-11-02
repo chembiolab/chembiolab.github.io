@@ -15,34 +15,16 @@ Our research goal is to develop and apply small-molecule tools to identify and c
 
 {{< include _updates.qmd >}}
 
-## Research Areas
-
 ```{=html}
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  var today = new Date();
-  var cutoff = new Date(today.getFullYear(), today.getMonth() - 2, today.getDate());
-  var hiddenCount = 0;
-
-  document.querySelectorAll('.update-item').forEach(function (item) {
-    var dateSpan = item.querySelector('span[style*="monospace"]');
-    if (!dateSpan) return;
-    var parts = dateSpan.textContent.trim().split('.');
-    if (parts.length < 3) return;
-    var itemDate = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2]));
-    if (itemDate < cutoff) {
-      item.style.display = 'none';
-      hiddenCount++;
-    }
-  });
-
-  if (hiddenCount > 0) {
-    var link = document.getElementById('old-news-link');
-    if (link) link.style.display = 'block';
-  }
-});
-</script>
+<p id="no-recent-news" hidden style="font-size:0.88rem;color:#475569;">등록된 소식이 없습니다.</p>
+<div style="margin-top:0.2rem;">
+  <a href="news.html" style="font-size:0.85rem;color:#2563eb;text-decoration:none;">
+    전체 소식 보기 → News 페이지
+  </a>
+</div>
 ```
+
+## Research Areas
 
 ::: card-grid
 ::: research-card
