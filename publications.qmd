@@ -18,6 +18,8 @@ include-in-header:
 
 ## 2026 {#pub2026}
 
+82\. Shin J\*\*, Kim EJ\*\*, Jun M, Yang MU, Erica KJY, Lee JY, Seo J\*, **Lee J\*** [Amphipathic peptoid transporters for protein and nanoparticle delivery.](https://doi.org/10.1039/D6RA06745J) *RSC Adv.* **2026**, *16*, 62698-62709. (\*\*co-first authors, \*co-corresponding authors)
+
 81\. Kim EJ, Lee Y, Ryu J, Kim H, Park J, **Lee J.** [Cell-penetrating peptides for therapeutic applications: emerging design strategies and future directions.](https://doi.org/10.1039/D6OB00146G) *Org. Biomol. Chem.* **2026**, *24*, 1938-1964.
 
 ## 2024 {#pub2024}
