@@ -18,7 +18,7 @@ include-in-header:
 
 :::: profile-box
 ::: profile-photo
-![이지연 (Jiyoun Lee)](images/people/25898F0F-0B3E-4471-960B-C9690A5905F9.PNG){style="object-position: center 20%;"}
+![](images/people/jiyoun-lee.png)
 :::
 ::: profile-info
 ### 이지연 (Jiyoun Lee)
