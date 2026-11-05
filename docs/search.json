@@ -39,21 +39,28 @@
     "href": "index.html",
     "title": "Drug Target and Biomarker Discovery Laboratory",
     "section": "",
-    "text": "Drug Target and Biomarker Discovery Laboratory\n\n\nSmall-molecule tools for chemical biology and drug discovery"
+    "text": "Molecular tools. Cellular insight. We develop chemical probes and peptoid transporters to read enzyme activity, visualize cellular environments, and study intracellular delivery. Explore our research and meet the lab."
   },
   {
     "objectID": "index.html#lab-updates",
     "href": "index.html#lab-updates",
     "title": "Drug Target and Biomarker Discovery Laboratory",
-    "section": "Lab Updates",
-    "text": "Lab Updates\n2026.11.02\n펩토이드 분자수송체 연구, RSC Advances 출판.\n김은지, 신주혜 (광주과기원) 학생이 공동1저자로 참여한 펩토이드 분자수송체 연구가 RSC Advances 에 출판 되었습니다. 축하합니다.\n2026.09.01\n학부연구생 3명 연구실 합류.\n임수민, 박성은, 이유진이 학부연구생으로 연구실에 합류했습니다. Welcome!\n2026.08.20\n류주희 석사과정 졸업.\n류주희 학생이 석사 학위를 취득하고 졸업했습니다. Congratulations!\n2026.08.15\n후드 이전 및 실험실 공간 확장.\n연구실 후드가 이전되고 실험 공간이 확장되었습니다.\n2026.07.01\nLab website migration complete.\nThe Drug Target and Biomarker Discovery Laboratory website has been successfully migrated to Quarto and GitHub Pages.\n등록된 소식이 없습니다.\n전체 소식 보기 → News 페이지"
+    "section": "Latest News",
+    "text": "Latest News 2026.11.02 펩토이드 분자수송체 연구, RSC Advances 출판. 김은지, 신주혜 (광주과기원) 학생이 공동1저자로 참여한 펩토이드 분자수송체 연구가 RSC Advances에 출판되었습니다. 축하합니다. 2026.09.01 학부연구생 3명 연구실 합류. 임수민, 박성은, 이유진이 학부연구생으로 연구실에 합류했습니다. Welcome!"
   },
   {
     "objectID": "index.html#research-areas",
     "href": "index.html#research-areas",
     "title": "Drug Target and Biomarker Discovery Laboratory",
-    "section": "Research Areas",
-    "text": "Research Areas\n\n\n\nActivity-Based Probes\nWe develop activity-based probes to monitor enzyme function in cells, animals, and disease models, with particular interest in proteases relevant to neurodegenerative diseases.\n\n\nMolecular Biomarker Discovery and Fluorescent Probe Development\nWe design chemical tools and fluorescent probes to detect disease-associated molecular activities and support biomarker discovery.\n\n\nPeptidomimetic Transporters\nWe develop peptoid and peptidomimetic scaffolds for organelle targeting and intracellular delivery of biologically active cargos."
+    "section": "Our Science",
+    "text": "Our Science. Designed at the molecular level. Tested in living systems. Read enzyme activity: Activity-based probes for AEP legumain and HTRA proteases. Make biology visible: fluorogenic molecules, lipid-droplet imaging, cells and tissues. Reach intracellular targets: amphipathic peptoids, cellular entry, mitochondrial localization and cargo accumulation."
+  },
+  {
+    "objectID": "index.html#people",
+    "href": "index.html#people",
+    "title": "Drug Target and Biomarker Discovery Laboratory",
+    "section": "People / Ideas / Discovery",
+    "text": "People / Ideas / Discovery. Bring your questions. Build something new. Research group at the 29th Korean Peptide Protein Society Annual Symposium, Busan, 2026. We welcome students and collaborators interested in chemical biology, molecular probes, protease activity and intracellular delivery. Join our group. Sungshin University, Seoul, Korea."
   },
   {
     "objectID": "join.html",
