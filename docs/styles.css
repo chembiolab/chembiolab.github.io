@@ -442,3 +442,32 @@ body:has(.lab-page-intro[data-page="news"]) #quarto-document-content .update-ite
 }
 @media(max-width:360px){#quarto-header .navbar-title{font-size:13.5px;width:205px}#quarto-header .navbar-container.container-fluid{gap:0 8px}}
 @media(prefers-reduced-motion:reduce){#quarto-header .nav-link,#quarto-header .nav-link:after{transition:none}}
+
+
+/* Compact PI profile: portrait, affiliation and contact columns. */
+body:has(.lab-page-intro[data-page="people"]) .profile-box{padding:20px 26px;gap:28px}
+body:has(.lab-page-intro[data-page="people"]) .profile-photo{flex:0 0 140px}
+body:has(.lab-page-intro[data-page="people"]) .profile-photo img{width:140px;height:140px}
+body:has(.lab-page-intro[data-page="people"]) .profile-box .profile-photo p{margin:0}
+body:has(.lab-page-intro[data-page="people"]) .profile-info{flex:1;min-width:0;display:grid;grid-template-columns:1.1fr 1fr;gap:0 32px;align-items:start}
+body:has(.lab-page-intro[data-page="people"]) #quarto-document-content .profile-info h3{grid-column:1/-1;font-size:26px;margin:0 0 12px}
+body:has(.lab-page-intro[data-page="people"]) .profile-info>p{margin:0}
+body:has(.lab-page-intro[data-page="people"]) .profile-info>p:nth-of-type(1){grid-column:1}
+body:has(.lab-page-intro[data-page="people"]) .profile-info>p:nth-of-type(2){grid-column:2;overflow-wrap:anywhere}
+body:has(.lab-page-intro[data-page="people"]) .profile-info>p:nth-of-type(2) br:nth-of-type(-n+2){display:none}
+body:has(.lab-page-intro[data-page="people"]) .profile-info>p:nth-of-type(2) a{display:inline-block;margin-right:13px}
+@media(max-width:900px) and (min-width:651px){
+ body:has(.lab-page-intro[data-page="people"]) .profile-box{padding:20px;gap:22px}
+ body:has(.lab-page-intro[data-page="people"]) .profile-photo{flex-basis:120px}
+ body:has(.lab-page-intro[data-page="people"]) .profile-photo img{width:120px;height:120px}
+ body:has(.lab-page-intro[data-page="people"]) .profile-info{gap:0 22px;grid-template-columns:1.1fr 1fr}
+}
+@media(max-width:650px){
+ body:has(.lab-page-intro[data-page="people"]) .profile-box{display:grid;grid-template-columns:88px minmax(0,1fr);gap:16px 18px;padding:20px;text-align:left;align-items:center}
+ body:has(.lab-page-intro[data-page="people"]) .profile-photo{grid-column:1;grid-row:1;width:88px}
+ body:has(.lab-page-intro[data-page="people"]) .profile-photo img{width:88px;height:88px;border-width:3px}
+ body:has(.lab-page-intro[data-page="people"]) .profile-info{display:contents}
+ body:has(.lab-page-intro[data-page="people"]) #quarto-document-content .profile-info h3{grid-column:2;grid-row:1;font-size:23px;line-height:1.4;margin:0;min-width:0}
+ body:has(.lab-page-intro[data-page="people"]) .profile-info>p:nth-of-type(1),body:has(.lab-page-intro[data-page="people"]) .profile-info>p:nth-of-type(2){grid-column:1/-1;margin:0}
+ body:has(.lab-page-intro[data-page="people"]) .profile-info>p:nth-of-type(2){padding-top:13px;border-top:1px solid #dae4e6}
+}
