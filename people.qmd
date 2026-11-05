@@ -105,7 +105,7 @@ Undergraduate researcher
 :::
 
 ::: member-card
-![박성은](images/people/park-seongeun.svg)
+![박성은](images/people/park-seongeun.svg?v=20261105-closeup)
 
 **박성은**\
 Undergraduate researcher
