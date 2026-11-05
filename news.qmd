@@ -1,9 +1,16 @@
 ---
 title: "News"
+toc: false
+page-layout: full
 ---
+
+```{=html}
+<div class="lab-page-intro" data-page="news"><div class="lab-intro-inner"><div><div class="lab-page-label">News</div><h1>Discoveries.<br><em>Milestones. People.</em></h1></div><p>Publication news, new members, and everyday progress from the laboratory. The complete archive lives here.</p><nav class="lab-intro-nav" aria-label="News sections"><a href="#news-archive">Latest updates</a><a href="research.html">Explore our research</a><a href="people.html">Meet our people</a></nav></div></div>
+```
 
 ::: {#news-archive}
 
 {{< include _updates.qmd >}}
 
 :::
+
