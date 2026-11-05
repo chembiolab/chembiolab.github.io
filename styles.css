@@ -391,3 +391,54 @@ body:has(.lab-page-intro[data-page="news"]) .update-item:first-child{background:
 body:has(.lab-page-intro[data-page="news"]) #quarto-document-content .update-item a{color:var(--lab-ink)}
 @media(max-width:900px){body:has(.lab-page-intro) #quarto-document-content{width:calc(100% - 48px)}body:has(.lab-page-intro) .lab-page-intro .lab-intro-inner{width:calc(100% - 48px);gap:24px 32px}body:has(.lab-page-intro[data-page="people"]) #current-members{gap:16px}body:has(.lab-page-intro[data-page="people"]) .member-card{padding:22px 8px}body:has(.lab-page-intro[data-page="join"]) .join-photos img{height:180px!important}}
 @media(max-width:650px){body:has(.lab-page-intro) #quarto-document-content{width:calc(100% - 36px);padding-bottom:32px!important}body:has(.lab-page-intro) .lab-page-intro .lab-intro-inner{width:calc(100% - 36px);grid-template-columns:1fr;padding:28px 0 21px;gap:18px}body:has(.lab-page-intro) #quarto-document-content .lab-page-intro h1{font-size:43px;letter-spacing:-1px}body:has(.lab-page-intro) .lab-intro-nav{gap:10px 20px;padding-top:16px}body:has(.lab-page-intro) #quarto-document-content>section{padding:30px 0}body:has(.lab-page-intro) #quarto-document-content h2{font-size:28px}body:has(.lab-page-intro[data-page="people"]) #principal-investigator{grid-template-columns:1fr;gap:24px}body:has(.lab-page-intro[data-page="people"]) .profile-box{padding:26px 20px;gap:20px}body:has(.lab-page-intro[data-page="people"]) .profile-photo{flex-basis:auto}body:has(.lab-page-intro[data-page="people"]) #current-members{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}body:has(.lab-page-intro[data-page="people"]) .member-card img{width:120px;height:120px}body:has(.lab-page-intro[data-page="people"]) #alumni>ul{grid-template-columns:1fr}body:has(.lab-page-intro[data-page="people"]) .honorary-list{grid-template-columns:45px 1fr;gap:16px}body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section{padding:28px 0 5px}body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>h2{position:static;font-size:28px;margin:0 0 5px}body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p{font-size:13px!important}body:has(.lab-page-intro[data-page="publications"]) .lab-intro-nav{gap:9px 19px}body:has(.lab-page-intro[data-page="join"]) .join-photos{grid-template-columns:1fr;margin-top:26px!important;gap:12px!important}body:has(.lab-page-intro[data-page="join"]) .join-photos img{height:220px!important}body:has(.lab-page-intro[data-page="join"]) #research-interests ul{grid-template-columns:1fr}body:has(.lab-page-intro[data-page="join"]) .join-photo-bottom{grid-template-columns:1fr;gap:12px!important}body:has(.lab-page-intro[data-page="join"]) #quarto-document-content>.join-photos+p{font-size:21px!important}body:has(.lab-page-intro[data-page="news"]) .update-item{grid-template-columns:1fr;gap:10px;padding:23px 0!important}body:has(.lab-page-intro[data-page="news"]) .update-item>span:first-of-type{grid-column:1;grid-row:auto}body:has(.lab-page-intro[data-page="news"]) .update-item>span:nth-of-type(2),body:has(.lab-page-intro[data-page="news"]) .update-item>span:nth-of-type(3){grid-column:1}body:has(.lab-page-intro[data-page="news"]) .update-item>span:nth-of-type(2){font-size:18px!important}body:has(.lab-page-intro[data-page="news"]) .update-item:first-child{padding:23px 18px!important}}
+
+
+/* Unified navigation: editorial wordmark, restrained mint accents. */
+#quarto-header{border-bottom:1px solid #d9e5e1;box-shadow:0 3px 16px #102b3b06}
+#quarto-header .navbar{background:#fbfcfa!important;padding:0!important;min-height:78px;color:#183746}
+#quarto-header .navbar-container.container-fluid{width:calc(100% - 80px);max-width:1160px;padding:13px 0;margin:0 auto;gap:26px;align-items:center;flex-wrap:nowrap}
+#quarto-header .navbar-brand-container{margin:0!important;flex:0 1 auto;min-width:0;order:0}
+#quarto-header .navbar-brand{display:block;position:relative;margin:0;padding:0 0 0 17px;color:#183746;max-width:none;white-space:normal;text-decoration:none}
+#quarto-header .navbar-brand:before{content:'';position:absolute;left:0;top:3px;bottom:3px;width:3px;background:linear-gradient(#7eb7a4,#b2dfce)}
+#quarto-header .navbar-title{display:block;width:290px;max-width:100%;font:400 20px/1.16 Georgia,'Times New Roman',serif;letter-spacing:-.3px;white-space:normal;text-overflow:clip;overflow:visible}
+#quarto-header .navbar-collapse{flex-grow:1;min-width:0;justify-content:flex-end}
+#quarto-header .navbar-nav{gap:23px;align-items:center;margin:0 0 0 auto!important;overflow:visible}
+#quarto-header .nav-link{position:relative;padding:13px 0!important;margin:0;font:500 11px/1.5 Arial,Helvetica,sans-serif;letter-spacing:1.2px;text-transform:uppercase;color:#506672!important;white-space:nowrap;text-decoration:none;transition:color .15s}
+#quarto-header .nav-link:after{content:'';position:absolute;left:0;right:0;bottom:5px;height:2px;background:#248375;transform:scaleX(0);transform-origin:left;transition:transform .15s}
+#quarto-header .nav-link:hover,#quarto-header .nav-link.active{color:#146e62!important}
+#quarto-header .nav-link:hover:after,#quarto-header .nav-link.active:after{transform:scaleX(1)}
+#quarto-header #quarto-search{margin:0!important;order:30;flex:0 0 36px;align-self:center;display:flex;align-items:center;justify-content:center;width:36px;height:36px;border:1px solid #d4e2de;border-radius:50%;background:#f2f7f3;color:#315c5a}
+#quarto-header #quarto-search .aa-DetachedSearchButton{margin:0!important;padding:8px!important;width:34px;height:34px;display:flex;align-items:center;justify-content:center;color:#315c5a!important;background:transparent!important;border:0!important;box-shadow:none}
+#quarto-header #quarto-search .aa-DetachedSearchButtonIcon{display:flex;align-items:center;justify-content:center}
+#quarto-header #quarto-search svg{width:17px;height:17px;stroke-width:1.6px}
+#quarto-header .quarto-navbar-tools:not(:has(*)){display:none}
+#quarto-header .navbar-toggler{color:#183746;border:1px solid #d4e2de;border-radius:2px;padding:7px;box-shadow:none;width:36px;height:36px;margin:0}
+#quarto-header .navbar-toggler-icon{width:20px;height:20px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 6h18M3 12h18M3 18h18' stroke='%23183746' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E")}
+#quarto-header a:focus-visible,#quarto-header button:focus-visible{outline:2px solid #248375;outline-offset:5px}
+@media(min-width:992px){#quarto-header .navbar-collapse{display:flex!important}#quarto-header .navbar-toggler{display:none}}
+@media(max-width:1100px) and (min-width:992px){#quarto-header .navbar-container.container-fluid{gap:22px}#quarto-header .navbar-nav{gap:18px}#quarto-header .navbar-title{width:270px;font-size:19px}#quarto-header .nav-link{font-size:10px;letter-spacing:1px}}
+@media(max-width:991.98px){
+ #quarto-header .navbar{min-height:72px}
+ #quarto-header .navbar-container.container-fluid{width:calc(100% - 48px);display:flex;flex-wrap:wrap;gap:0 14px;padding:13px 0;position:relative}
+ #quarto-header .navbar-brand-container{flex:1 1 0;order:0;min-width:0}
+ #quarto-header .navbar-brand{padding-left:13px}
+ #quarto-header .navbar-title{width:260px;font-size:18px;line-height:1.18}
+ #quarto-header .navbar-toggler{order:2;flex:0 0 36px}
+ #quarto-header #quarto-search{order:1;flex-basis:36px}
+ #quarto-header .navbar-collapse{order:4;flex:1 0 100%;width:100%;min-width:0}
+ #quarto-header .navbar-nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:3px 18px;align-items:start;margin:16px 0 0!important;padding:13px 0 3px;border-top:1px solid #d9e5e1;max-height:none!important;overflow:visible}
+ #quarto-header .nav-link{display:inline-block;padding:10px 0!important;font-size:11px;letter-spacing:1px}
+ #quarto-header .nav-link:after{bottom:4px}
+}
+@media(max-width:650px){
+ #quarto-header .navbar-container.container-fluid{width:calc(100% - 36px);gap:0 10px;padding:12px 0}
+ #quarto-header .navbar-title{width:225px;font-size:15px;line-height:1.2;letter-spacing:-.15px}
+ #quarto-header .navbar-brand{padding-left:11px}
+ #quarto-header .navbar-brand:before{width:2px;top:2px;bottom:2px}
+ #quarto-header #quarto-search,#quarto-header .navbar-toggler{width:32px;height:32px;flex-basis:32px}
+ #quarto-header #quarto-search .aa-DetachedSearchButton{width:30px;height:30px;padding:7px!important}
+ #quarto-header .navbar-toggler{padding:5px}
+ #quarto-header .navbar-nav{gap:3px 14px}
+}
+@media(max-width:360px){#quarto-header .navbar-title{font-size:13.5px;width:205px}#quarto-header .navbar-container.container-fluid{gap:0 8px}}
+@media(prefers-reduced-motion:reduce){#quarto-header .nav-link,#quarto-header .nav-link:after{transition:none}}
