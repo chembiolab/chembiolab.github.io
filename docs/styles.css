@@ -328,8 +328,8 @@ body:has(.lab-page-intro) #quarto-document-content h2{font:400 31px/1.3 Georgia,
 body:has(.lab-page-intro) #quarto-document-content h3{font:400 23px/1.4 Georgia,'Times New Roman',serif;color:var(--lab-ink);border:0!important;margin:0 0 14px;padding:0!important}
 body:has(.lab-page-intro) #quarto-document-content>section{padding:42px 0;border-bottom:1px solid var(--lab-line)}
 body:has(.lab-page-intro) #quarto-document-content>section:last-child{border-bottom:0}
-body:has(.lab-page-intro) .lab-page-intro{position:relative;left:50%;width:100vw;margin:0 0 0 -50vw;background:var(--lab-navy);color:#fff}
-body:has(.lab-page-intro) .lab-page-intro .lab-intro-inner{width:min(1160px,calc(100% - 80px));margin:auto;padding:34px 0 26px;display:grid;grid-template-columns:1.1fr 1fr;gap:28px 70px;align-items:end}
+body:has(.lab-page-intro) .lab-page-intro{position:relative;left:auto;width:100%;margin:0;background:var(--lab-navy);color:#fff;box-shadow:0 0 0 100vmax var(--lab-navy);clip-path:inset(0 -100vmax)}
+body:has(.lab-page-intro) .lab-page-intro .lab-intro-inner{width:100%!important;margin:auto;padding:34px 0 26px;display:grid;grid-template-columns:1.1fr 1fr;gap:28px 70px;align-items:end}
 body:has(.lab-page-intro) #quarto-document-content .lab-page-intro h1{font:400 clamp(43px,4.4vw,60px)/1.1 Georgia,'Times New Roman',serif;letter-spacing:-1.5px;border:0!important;margin:0;color:#fff;padding:0}
 body:has(.lab-page-intro) .lab-page-intro h1 em{color:var(--lab-mint);font-weight:400}
 body:has(.lab-page-intro) #quarto-document-content .lab-page-intro p{color:#bdd2d9!important;max-width:490px;margin:0;font-size:14px!important;line-height:1.9!important}
