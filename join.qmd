@@ -1,5 +1,15 @@
+---
+title: "Join Us"
+toc: false
+page-layout: full
+---
+
 ```{=html}
-<div class="join-photos" style="display:flex;flex-wrap:wrap;align-items:flex-start;gap:12px;margin-bottom:1rem;">
+<div class="lab-page-intro" data-page="join"><div class="lab-intro-inner"><div><div class="lab-page-label">Join Us</div><h1>Bring your questions.<br><em>Build something new.</em></h1></div><p>Join a laboratory working at the interface of chemistry and biology. We welcome motivated students, researchers, and collaborators.</p><nav class="lab-intro-nav" aria-label="Join Us sections"><a href="#lab-life">Life in the lab</a><a href="#research-interests">Research interests</a><a href="#contact">Get in touch</a></nav></div></div>
+```
+
+```{=html}
+<div id="lab-life" class="join-photos" style="display:flex;flex-wrap:wrap;align-items:flex-start;gap:12px;margin-bottom:1rem;">
   <img src="images/labpic.jpg" alt="Research group photo" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
   <img src="images/labpic2.png" alt="Research group photo" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
   <img src="images/IMG_4760.jpg" alt="Group photo at the 27th Korean Peptide Protein Society Symposium, Busan, 2024" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
@@ -26,8 +36,13 @@ Prospective students and collaborators are encouraged to contact us if they are 
 Email: jlee at sungshin.ac.kr
 
 ```{=html}
+<a class="lab-contact-link" href="mailto:jlee@sungshin.ac.kr">Contact the lab ↗</a>
+```
+
+```{=html}
 <div class="join-photo-bottom" style="display:flex;flex-wrap:wrap;align-items:flex-start;gap:12px;margin:1.5rem 0 1rem;">
   <img src="images/IMG_6344.JPG" alt="Research group gathering in the office" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
   <img src="images/IMG_3556.jpg" alt="Research group photo in the laboratory" height="220" style="height:220px;width:auto;max-width:100%;object-fit:contain;display:block;">
 </div>
 ```
+
