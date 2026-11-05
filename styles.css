@@ -310,3 +310,84 @@ h1.title {
 }
 
 .update-item p { font-size: 0.88rem; line-height: 1.6; margin-bottom: 0.15rem; }
+
+
+
+/* Shared editorial design for People, Publications, Join Us and News. */
+body:has(.lab-page-intro){--lab-ink:#142b3b;--lab-muted:#566e7c;--lab-navy:#102b3b;--lab-teal:#16766e;--lab-mint:#b2dfce;--lab-line:#dae4e6;overflow-x:clip;background:#fff;color:var(--lab-ink)}
+body:has(.lab-page-intro) #quarto-content.quarto-container{display:block!important;max-width:none;width:100%;margin:0!important;padding:0!important}
+body:has(.lab-page-intro) #quarto-sidebar,body:has(.lab-page-intro) #quarto-margin-sidebar{display:none!important}
+body:has(.lab-page-intro) #quarto-document-content{display:block!important;max-width:1160px!important;width:calc(100% - 80px);margin:0 auto!important;padding:0 0 60px!important;font:15px/1.8 Arial,Helvetica,sans-serif;color:var(--lab-ink)}
+body:has(.lab-page-intro) #title-block-header{display:none!important}
+body:has(.lab-page-intro) #quarto-document-content p,body:has(.lab-page-intro) #quarto-document-content li{font-size:14px!important;line-height:1.85!important;color:var(--lab-muted)}
+body:has(.lab-page-intro) #quarto-document-content a{color:var(--lab-teal);text-decoration:none;text-underline-offset:4px}
+body:has(.lab-page-intro) #quarto-document-content a:hover{text-decoration:underline}
+body:has(.lab-page-intro) a:focus-visible{outline:3px solid #39a899;outline-offset:5px}
+body:has(.lab-page-intro) #quarto-document-content section{scroll-margin-top:90px}
+body:has(.lab-page-intro) #quarto-document-content h2{font:400 31px/1.3 Georgia,'Times New Roman',serif;letter-spacing:-.5px;color:var(--lab-ink);border:0;padding:0;margin:0 0 24px}
+body:has(.lab-page-intro) #quarto-document-content h3{font:400 23px/1.4 Georgia,'Times New Roman',serif;color:var(--lab-ink);border:0!important;margin:0 0 14px;padding:0!important}
+body:has(.lab-page-intro) #quarto-document-content>section{padding:42px 0;border-bottom:1px solid var(--lab-line)}
+body:has(.lab-page-intro) #quarto-document-content>section:last-child{border-bottom:0}
+body:has(.lab-page-intro) .lab-page-intro{position:relative;left:50%;width:100vw;margin:0 0 0 -50vw;background:var(--lab-navy);color:#fff}
+body:has(.lab-page-intro) .lab-page-intro .lab-intro-inner{width:min(1160px,calc(100% - 80px));margin:auto;padding:34px 0 26px;display:grid;grid-template-columns:1.1fr 1fr;gap:28px 70px;align-items:end}
+body:has(.lab-page-intro) #quarto-document-content .lab-page-intro h1{font:400 clamp(43px,4.4vw,60px)/1.1 Georgia,'Times New Roman',serif;letter-spacing:-1.5px;border:0!important;margin:0;color:#fff;padding:0}
+body:has(.lab-page-intro) .lab-page-intro h1 em{color:var(--lab-mint);font-weight:400}
+body:has(.lab-page-intro) #quarto-document-content .lab-page-intro p{color:#bdd2d9!important;max-width:490px;margin:0;font-size:14px!important;line-height:1.9!important}
+body:has(.lab-page-intro) .lab-intro-nav{grid-column:1/-1;display:flex;gap:24px;flex-wrap:wrap;padding-top:18px;border-top:1px solid #ffffff26;font-size:11px;line-height:1.8}
+body:has(.lab-page-intro) #quarto-document-content .lab-intro-nav a{color:#c6dedf;white-space:nowrap}
+body:has(.lab-page-intro) .lab-intro-nav a:hover{color:#fff}
+body:has(.lab-page-intro) .lab-page-label{font:10px/1.5 Arial,sans-serif;letter-spacing:1.9px;text-transform:uppercase;color:#8eb9ba;margin-bottom:12px}
+body:has(.lab-page-intro) .lab-page-note{font-size:11px;color:var(--lab-muted);margin:24px 0}
+/* People: preserve portrait crops and present all current members consistently. */
+body:has(.lab-page-intro[data-page="people"]) #principal-investigator{display:grid;grid-template-columns:.88fr 1.12fr;gap:26px 38px}
+body:has(.lab-page-intro[data-page="people"]) #principal-investigator>h2,body:has(.lab-page-intro[data-page="people"]) .profile-box{grid-column:1/-1}
+body:has(.lab-page-intro[data-page="people"]) #principal-investigator>h2{margin-bottom:0}
+body:has(.lab-page-intro[data-page="people"]) .profile-box{padding:30px 34px;margin:0;background:#f3f7f5;border:1px solid var(--lab-line);gap:34px;align-items:center}
+body:has(.lab-page-intro[data-page="people"]) .profile-photo{flex:0 0 160px}
+body:has(.lab-page-intro[data-page="people"]) .profile-photo img{width:160px;height:160px;border:4px solid #fff}
+body:has(.lab-page-intro[data-page="people"]) .profile-box p{margin:0 0 9px}
+body:has(.lab-page-intro[data-page="people"]) #quarto-document-content .profile-info h3{font-size:30px;letter-spacing:-.5px;margin-bottom:12px}
+body:has(.lab-page-intro[data-page="people"]) #education,body:has(.lab-page-intro[data-page="people"]) #experience{padding:24px 0 0;border-top:1px solid var(--lab-line)}
+body:has(.lab-page-intro[data-page="people"]) #education ul,body:has(.lab-page-intro[data-page="people"]) #experience ul{padding-left:18px;margin:0}
+body:has(.lab-page-intro[data-page="people"]) #education li,body:has(.lab-page-intro[data-page="people"]) #experience li{margin-bottom:10px}
+body:has(.lab-page-intro[data-page="people"]) #current-members{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px}
+body:has(.lab-page-intro[data-page="people"]) #current-members>h2{grid-column:1/-1;margin-bottom:4px}
+body:has(.lab-page-intro[data-page="people"]) .member-grid{display:contents}
+body:has(.lab-page-intro[data-page="people"]) .member-card{padding:26px 12px 20px;border:1px solid var(--lab-line);background:#fff;text-align:center;min-width:0}
+body:has(.lab-page-intro[data-page="people"]) .member-card img{width:130px;height:130px;max-width:100%;border:0;object-fit:cover;margin-bottom:12px}
+body:has(.lab-page-intro[data-page="people"]) .member-card p{margin:0!important;font-size:12px!important;line-height:1.7!important}
+body:has(.lab-page-intro[data-page="people"]) .member-card strong{font-size:18px;color:var(--lab-ink);display:inline-block;margin-bottom:4px;font-weight:500}
+body:has(.lab-page-intro[data-page="people"]) #alumni>ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:0 36px}
+body:has(.lab-page-intro[data-page="people"]) #alumni li{padding:14px 0;margin:0;border-bottom:1px solid var(--lab-line)}
+body:has(.lab-page-intro[data-page="people"]) .honorary-list{display:grid;grid-template-columns:70px 1fr;gap:16px 28px;max-width:900px}
+body:has(.lab-page-intro[data-page="people"]) .honorary-list>p{grid-column:1;margin:0;padding-top:4px;color:var(--lab-teal)!important;font-family:monospace}
+body:has(.lab-page-intro[data-page="people"]) .honorary-list>ul{grid-column:2;margin:0;padding:0 0 16px 18px;border-bottom:1px solid var(--lab-line)}
+/* Publications: the complete record, with a compact year index. */
+body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section{position:relative;padding:18px 0 18px 115px;min-height:100px}
+body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>h2{position:absolute;left:0;top:34px;margin:0;font:400 29px/1.3 Georgia,serif;color:var(--lab-teal)}
+body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p{padding:20px 0!important;text-indent:0!important;margin:0!important;border-bottom:1px solid #e5eceb;font-size:14px!important;line-height:1.9!important;overflow-wrap:anywhere}
+body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p:last-child{border-bottom:0}
+body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p a{color:var(--lab-ink);font-weight:600}
+body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p a:hover{color:var(--lab-teal)}
+body:has(.lab-page-intro[data-page="publications"]) #pub2026>p:first-of-type{background:#f0f7f3;border-left:3px solid #97c8b7;padding:20px 24px!important;margin:8px 0!important}
+body:has(.lab-page-intro[data-page="publications"]) .lab-intro-nav{gap:11px 22px}
+/* Join Us: photographs keep their full framing, with equal-height frames. */
+body:has(.lab-page-intro[data-page="join"]) .join-photos{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px!important;margin:38px 0 28px!important}
+body:has(.lab-page-intro[data-page="join"]) .join-photo-bottom{display:grid!important;grid-template-columns:1fr 1fr;gap:18px!important;margin:32px 0 0!important}
+body:has(.lab-page-intro[data-page="join"]) .join-photos img,body:has(.lab-page-intro[data-page="join"]) .join-photo-bottom img{width:100%!important;height:220px!important;max-width:100%;object-fit:contain!important;background:#102b3b;border:1px solid var(--lab-line)}
+body:has(.lab-page-intro[data-page="join"]) #quarto-document-content>.join-photos+p{max-width:820px;font:400 23px/1.65 Georgia,serif!important;color:#344e5e!important;margin:0 0 12px}
+body:has(.lab-page-intro[data-page="join"]) #research-interests ul{padding:0;margin:24px 0 0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));list-style:none;gap:12px}
+body:has(.lab-page-intro[data-page="join"]) #research-interests li{border:1px solid var(--lab-line);border-left:3px solid #9bcabd;padding:17px 20px;margin:0;background:#f7faf8}
+body:has(.lab-page-intro[data-page="join"]) .lab-contact-link{display:inline-block;font-size:13px;font-weight:600;border:1px solid #a5c6bf;padding:10px 18px;margin:8px 0 14px}
+/* News: chronological archive; Home continues to show only the latest two. */
+body:has(.lab-page-intro[data-page="news"]) #news-archive{padding-top:34px}
+body:has(.lab-page-intro[data-page="news"]) .news-list{display:block}
+body:has(.lab-page-intro[data-page="news"]) .update-item{display:grid;grid-template-columns:135px 1fr;gap:9px 30px;padding:27px 0!important;margin:0!important;border-bottom:1px solid var(--lab-line)}
+body:has(.lab-page-intro[data-page="news"]) .update-item:before,body:has(.lab-page-intro[data-page="news"]) .update-item:after,body:has(.lab-page-intro[data-page="news"]) .update-item>div{display:none!important}
+body:has(.lab-page-intro[data-page="news"]) .update-item>span:first-of-type{grid-column:1;grid-row:1/3;color:var(--lab-teal);font:12px/1.8 monospace!important;letter-spacing:.7px;margin:3px 0 0!important}
+body:has(.lab-page-intro[data-page="news"]) .update-item>span:nth-of-type(2){grid-column:2;font-size:20px!important;line-height:1.5!important;color:var(--lab-ink);font-weight:500!important;margin:0!important}
+body:has(.lab-page-intro[data-page="news"]) .update-item>span:nth-of-type(3){grid-column:2;font-size:14px!important;line-height:1.9!important;color:var(--lab-muted)!important;max-width:850px}
+body:has(.lab-page-intro[data-page="news"]) .update-item:first-child{background:#f0f7f3;padding:27px 25px!important;border-left:3px solid #97c8b7}
+body:has(.lab-page-intro[data-page="news"]) #quarto-document-content .update-item a{color:var(--lab-ink)}
+@media(max-width:900px){body:has(.lab-page-intro) #quarto-document-content{width:calc(100% - 48px)}body:has(.lab-page-intro) .lab-page-intro .lab-intro-inner{width:calc(100% - 48px);gap:24px 32px}body:has(.lab-page-intro[data-page="people"]) #current-members{gap:16px}body:has(.lab-page-intro[data-page="people"]) .member-card{padding:22px 8px}body:has(.lab-page-intro[data-page="join"]) .join-photos img{height:180px!important}}
+@media(max-width:650px){body:has(.lab-page-intro) #quarto-document-content{width:calc(100% - 36px);padding-bottom:32px!important}body:has(.lab-page-intro) .lab-page-intro .lab-intro-inner{width:calc(100% - 36px);grid-template-columns:1fr;padding:28px 0 21px;gap:18px}body:has(.lab-page-intro) #quarto-document-content .lab-page-intro h1{font-size:43px;letter-spacing:-1px}body:has(.lab-page-intro) .lab-intro-nav{gap:10px 20px;padding-top:16px}body:has(.lab-page-intro) #quarto-document-content>section{padding:30px 0}body:has(.lab-page-intro) #quarto-document-content h2{font-size:28px}body:has(.lab-page-intro[data-page="people"]) #principal-investigator{grid-template-columns:1fr;gap:24px}body:has(.lab-page-intro[data-page="people"]) .profile-box{padding:26px 20px;gap:20px}body:has(.lab-page-intro[data-page="people"]) .profile-photo{flex-basis:auto}body:has(.lab-page-intro[data-page="people"]) #current-members{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}body:has(.lab-page-intro[data-page="people"]) .member-card img{width:120px;height:120px}body:has(.lab-page-intro[data-page="people"]) #alumni>ul{grid-template-columns:1fr}body:has(.lab-page-intro[data-page="people"]) .honorary-list{grid-template-columns:45px 1fr;gap:16px}body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section{padding:28px 0 5px}body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>h2{position:static;font-size:28px;margin:0 0 5px}body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p{font-size:13px!important}body:has(.lab-page-intro[data-page="publications"]) .lab-intro-nav{gap:9px 19px}body:has(.lab-page-intro[data-page="join"]) .join-photos{grid-template-columns:1fr;margin-top:26px!important;gap:12px!important}body:has(.lab-page-intro[data-page="join"]) .join-photos img{height:220px!important}body:has(.lab-page-intro[data-page="join"]) #research-interests ul{grid-template-columns:1fr}body:has(.lab-page-intro[data-page="join"]) .join-photo-bottom{grid-template-columns:1fr;gap:12px!important}body:has(.lab-page-intro[data-page="join"]) #quarto-document-content>.join-photos+p{font-size:21px!important}body:has(.lab-page-intro[data-page="news"]) .update-item{grid-template-columns:1fr;gap:10px;padding:23px 0!important}body:has(.lab-page-intro[data-page="news"]) .update-item>span:first-of-type{grid-column:1;grid-row:auto}body:has(.lab-page-intro[data-page="news"]) .update-item>span:nth-of-type(2),body:has(.lab-page-intro[data-page="news"]) .update-item>span:nth-of-type(3){grid-column:1}body:has(.lab-page-intro[data-page="news"]) .update-item>span:nth-of-type(2){font-size:18px!important}body:has(.lab-page-intro[data-page="news"]) .update-item:first-child{padding:23px 18px!important}}
