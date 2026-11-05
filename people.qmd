@@ -1,18 +1,12 @@
 ---
 title: "People"
-toc: true
-toc-location: left
-toc-title: "People"
-toc-depth: 2
-include-in-header:
-  text: |
-    <style>
-    h2 { font-size: 1.05rem; margin-top: 1.0rem; margin-bottom: 0.3rem; }
-    h3 { font-size: 0.88rem; margin-top: 0.5rem; margin-bottom: 0.2rem; border-bottom: none !important; padding-bottom: 0 !important; }
-    p { font-size: 0.88rem; line-height: 1.6; margin-bottom: 0.25rem; }
-    #quarto-document-content li { font-size: 0.88rem; line-height: 1.6; margin-bottom: 0.25rem; }
-    </style>
+toc: false
+page-layout: full
 ---
+
+```{=html}
+<div class="lab-page-intro" data-page="people"><div class="lab-intro-inner"><div><div class="lab-page-label">People</div><h1>People behind<br><em>the questions.</em></h1></div><p>Meet the researchers developing chemical tools to understand living systems.</p><nav class="lab-intro-nav" aria-label="People sections"><a href="#principal-investigator">Principal investigator</a><a href="#current-members">Current members</a><a href="#alumni">Alumni</a><a href="#honorary-members">Honorary members</a></nav></div></div>
+```
 
 ## Principal Investigator
 
@@ -179,3 +173,4 @@ Undergraduate researcher
 
 - 정수정, Undergraduate researcher
 :::
+
