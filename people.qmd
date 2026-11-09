@@ -5,10 +5,10 @@ page-layout: full
 ---
 
 ```{=html}
-<div class="lab-page-intro" data-page="people"><div class="lab-intro-inner"><div><div class="lab-page-label">People</div><h1>People behind<br><em>the questions.</em></h1></div><p>Meet the researchers developing chemical tools to understand living systems.</p><nav class="lab-intro-nav" aria-label="People sections"><a href="#principal-investigator">Principal investigator</a><a href="#current-members">Current members</a><a href="#alumni">Alumni</a><a href="#honorary-members">Honorary members</a></nav></div></div>
+<div class="lab-page-intro" data-page="people"><div class="lab-intro-inner"><div><div class="lab-page-label">People</div><h1>People behind<br><em>the questions.</em></h1></div><p>Meet the researchers developing chemical tools to understand living systems.</p><nav class="lab-intro-nav" aria-label="People sections"><a href="#principal-investigator">Advisor</a><a href="#current-members">Current members</a><a href="#alumni">Alumni</a><a href="#honorary-members">Honorary members</a></nav></div></div>
 ```
 
-## Principal Investigator
+## [Advisor]{.label-en} [지도교수]{.label-ko lang="ko"} {#principal-investigator .bilingual-title}
 
 :::: profile-box
 ::: profile-photo
@@ -29,13 +29,13 @@ Phone: +82-2-920-7281
 :::
 ::::
 
-### Education
+### [Education]{.label-en} [학력]{.label-ko lang="ko"} {#education .bilingual-title}
 
 - 2006: Ph.D. in Bioinorganic Chemistry, Northwestern University (Advisor: Prof. Thomas J. Meade)
 - 2000: M.S. in Medicinal Chemistry, Seoul National University (Advisor: Prof. Jeewoo Lee)
 - 1998: B.S. in Pharmacy, Seoul National University
 
-### Experience
+### [Experience]{.label-en} [경력]{.label-ko lang="ko"} {#experience .bilingual-title}
 
 - 2023–Present: Professor, School of Biopharmaceutical and Medical Sciences, Sungshin University
 - 2021–2022: Associate Professor, School of Biopharmaceutical and Medical Sciences, Sungshin University
@@ -45,7 +45,7 @@ Phone: +82-2-920-7281
 - 2008–2010: Postdoctoral Research Associate, Stanford University School of Medicine (Advisor: Prof. Matthew Bogyo)
 - 2006–2007: Postdoctoral Research Associate, University of California, Berkeley (Advisor: Prof. Christopher J. Chang)
 
-## Current Members
+## [Current Members]{.label-en} [현재 구성원]{.label-ko lang="ko"} {#current-members .bilingual-title}
 
 <!--
 새 멤버 추가: 아래 ::: member-card ... ::: 블록을 통째로 복사해서
@@ -106,7 +106,7 @@ Undergraduate researcher
 :::
 ::::::::
 
-## Alumni
+## [Alumni]{.label-en} [졸업생]{.label-ko lang="ko"} {#alumni .bilingual-title}
 
 <!--
 졸업생 추가 형식: - 이름, 학위 연도–연도, 현재 소속(선택)
@@ -119,7 +119,7 @@ Undergraduate researcher
 - 홍종아, M.S. 2016–2018, 식약처
 - 나여경, M.S. 2015–2017, 단디큐어
 
-## Honorary Members
+## [Honorary Members]{.label-en} [명예 구성원]{.label-ko lang="ko"} {#honorary-members .bilingual-title}
 
 <!--
 새 연도 추가 형식:
@@ -173,4 +173,5 @@ Undergraduate researcher
 
 - 정수정, Undergraduate researcher
 :::
+
 
