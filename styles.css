@@ -369,7 +369,7 @@ body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>sec
 body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p:last-child{border-bottom:0}
 body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p a{color:var(--lab-ink);font-weight:600}
 body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p a:hover{color:var(--lab-teal)}
-body:has(.lab-page-intro[data-page="publications"]) #pub2026>p:first-of-type{background:#f0f7f3;border-left:3px solid #97c8b7;padding:20px 24px!important;margin:8px 0!important}
+@media (hover: hover){body:has(.lab-page-intro[data-page="publications"]) #quarto-document-content>section>p:hover{background:#f0f7f3}}
 body:has(.lab-page-intro[data-page="publications"]) .lab-intro-nav{gap:11px 22px}
 /* Join Us: photographs keep their full framing, with equal-height frames. */
 body:has(.lab-page-intro[data-page="join"]) .join-photos{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px!important;margin:38px 0 28px!important}
