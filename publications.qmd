@@ -10,9 +10,7 @@ page-layout: full
 
 ## 2026 {#pub2026}
 
-```{=html}
-<p>Yunn Me Me Paing<sup>†</sup>, Eun-Ji Kim<sup>†</sup>, Minh Tuan Nguyen<sup>†</sup>, Joungmin Kim, Hyeonjeong Son, Minhui Um, Yuna Lee, So Mee Kwon, Che-Eun Kim, Chan-Gi Pack, Soo Jin Kim, Junyeop Lee, Eun Hee Koh, Chang Hoon Lee, <strong>Jiyoun Lee</strong><sup>*</sup>, and Min-Ji Kang<sup>*</sup>. <strong>Phenotypic Screening Identifies a Small Molecule Restoring Retinal Pigment Epithelial Integrity under Oxidative Stress via the KEAP1-NRF2 Axis.</strong> <em>Manuscript under review.</em> (†These authors contributed equally. *Corresponding authors.)</p>
-```
+83\. Paing YMM\*\*, Kim EJ\*\*, Nguyen MT\*\*, Kim J, Son H, Um M, Lee Y, Kwon SM, Kim CE, Pack CG, Kim SJ, Lee J, Koh EH, Lee CH, **Lee J\***, Kang MJ\* **Phenotypic Screening Identifies a Small Molecule Restoring Retinal Pigment Epithelial Integrity under Oxidative Stress via the KEAP1-NRF2 Axis.** *Manuscript under review.* (\*\*co-first authors, \*co-corresponding authors)
 
 82\. Shin J\*\*, Kim EJ\*\*, Jun M, Yang MU, Erica KJY, Lee JY, Seo J\*, **Lee J\*** [Amphipathic peptoid transporters for protein and nanoparticle delivery.](https://doi.org/10.1039/D6RA06745J) *RSC Adv.* **2026**, *16*, 62698-62709. (\*\*co-first authors, \*co-corresponding authors)
 
